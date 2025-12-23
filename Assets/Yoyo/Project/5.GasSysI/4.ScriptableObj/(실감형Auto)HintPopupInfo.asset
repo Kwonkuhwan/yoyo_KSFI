@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280198b86e48cc044b5f3d30aae76961, type: 3}
+  m_Name: "(\uC2E4\uAC10\uD615Auto)HintPopupInfo"
+  m_EditorClassIdentifier: 
+  hintData:
+  - title: "\uC790\uB3D9\uAE30\uB3D9\uBC29\uC2DD"
+    text: "\uAC00\uC2A4\uACC4\uC18C\uD654\uC124\uBE44 \uC790\uB3D9\uAE30\uB3D9\uBC29\uC2DD(\uAC10\uC9C0\uAE30
+      \uC791\uB3D9) \uC791\uB3D9\uC21C\uC11C\uC785\uB2C8\uB2E4."
+    audioClip: {fileID: 8300000, guid: c7ff5566657bcf74baddeb75970285d9, type: 3}
+  - title: STEP 1
+    text: "\uD654\uC7AC\uBC1C\uC0DD"
+    audioClip: {fileID: 8300000, guid: b0c3ddcf7e75c864cb332c25b535bf5b, type: 3}
+  - title: STEP 2
+    text: "\uAD50\uCC28\uD68C\uB85C \uBC29\uC2DD\uC758 \uC5F0\uAE30\uAC10\uC9C0\uAE30
+      \uBC0F \uC5F4\uAC10\uC9C0\uAE30 \uC791\uB3D9"
+    audioClip: {fileID: 8300000, guid: 4946647866bcb9e4789eb021537343d9, type: 3}
+  - title: STEP 3
+    text: "\uAC10\uC2DC\uC81C\uC5B4\uBC18 \uD654\uC7AC\uD45C\uC2DC\uB4F1 \uC810\uB4F1,
+      \uAC10\uC9C0\uAE30 \uC791\uB3D9 \uD45C\uC2DC\uB4F1 \uC810\uB4F1, \uC57D\uC81C\uBC29\uCD9C
+      \uC9C0\uC5F0\uC2DC\uAC04 \uC791\uB3D9"
+    audioClip: {fileID: 8300000, guid: 4a92f8ceb96446c488210373f3b55941, type: 3}
+  - title: STEP 4
+    text: "\uC194\uB808\uB178\uC774\uB4DC\uBC38\uBE0C \uACA9\uBC1C\uB85C \uAE30\uB3D9\uC6A9\uAC00\uC2A4\uC6A9\uAE30
+      \uAC1C\uBC29"
+    audioClip: {fileID: 8300000, guid: 4f9d25c1e2868fb4ab6ba8c6c8cd0af2, type: 3}
+  - title: STEP 5
+    text: "\uAC10\uC2DC\uC81C\uC5B4\uBC18 \uC194\uB808\uB178\uC774\uB4DC \uBC38\uBE0C
+      \uAE30\uB3D9 \uD45C\uC2DC\uB4F1 \uC810\uB4F1"
+    audioClip: {fileID: 8300000, guid: 19f89c5e0b7d0044d97a15dcde77dc1f, type: 3}
+  - title: STEP 6
+    text: "\uC120\uD0DD\uBC38\uBE0C \uAC1C\uBC29"
+    audioClip: {fileID: 8300000, guid: 7b1d89469d303504f9b4ab18ceed787a, type: 3}
+  - title: STEP 7
+    text: "\uAE30\uB3D9\uC6A9\uAC00\uC2A4 \uC120\uD0DD\uBC38\uBE0C\uC640 \uC5F0\uACB0\uB41C
+      \uB3D9\uAD00\uC744 \uD1B5\uD574 \uC800\uC7A5\uC6A9\uAE30\uB85C \uC774\uB3D9"
+    audioClip: {fileID: 8300000, guid: 6d72b9edc36476a40a813f1af03d5a6e, type: 3}
+  - title: STEP 8
+    text: "\uC800\uC7A5\uC6A9\uAE30 \uAC1C\uBC29"
+    audioClip: {fileID: 8300000, guid: 02b7a8aa4ac298946890fdafa1e7ed67, type: 3}
+  - title: STEP 9
+    text: "\uC9D1\uD569\uAD00\uC744 \uD1B5\uD574 \uC18C\uD654\uAC00\uC2A4 \uC774\uB3D9"
+    audioClip: {fileID: 8300000, guid: 9981892d90571d34e908e320ebe3f10c, type: 3}
+  - title: STEP 10
+    text: "\uC555\uB825\uC2A4\uC704\uCE58 \uC791\uB3D9"
+    audioClip: {fileID: 8300000, guid: 9af65f840a2c22a46b0e28976a3b5907, type: 3}
+  - title: STEP 11
+    text: "\uAC10\uC2DC\uC81C\uC5B4\uBC18 \uBC29\uCD9C \uD655\uC778 \uD45C\uC2DC\uB4F1
+      \uC810\uB4F1"
+    audioClip: {fileID: 8300000, guid: b000f61b9628d1d498f4aeaa2cfa6322, type: 3}
+  - title: STEP 12
+    text: "\uBC29\uD638\uAD6C\uC5ED \uCD9C\uC785\uBB38 \uC0C1\uB2E8\uC758 \uBC29\uCD9C\uD45C\uC2DC\uB4F1
+      \uBC0F \uC218\uB3D9\uC870\uC791\uD568 \uBC29\uCD9C\uB4F1 \uC810\uB4F1"
+    audioClip: {fileID: 8300000, guid: 65773998415fda94bbd3ed3d513c5e93, type: 3}
+  - title: STEP 13
+    text: "\uC18C\uD654\uAC00\uC2A4 \uBC29\uD638\uAD6C\uC5ED\uC73C\uB85C \uC774\uB3D9"
+    audioClip: {fileID: 8300000, guid: f2c26828bc4858445bb536f3b98d9958, type: 3}
+  - title: STEP 14
+    text: "\uD654\uC7AC \uC9C4\uC555"
+    audioClip: {fileID: 8300000, guid: af68bdad026e34747b8338a21c4062f6, type: 3}
+  - title: "\uC790\uB3D9\uAE30\uB3D9\uBC29\uC2DD"
+    text: "\uC2E4\uC2B5\uC885\uB8CC"
+    audioClip: {fileID: 8300000, guid: d860e112c0f0d8a429c37ad448173318, type: 3}

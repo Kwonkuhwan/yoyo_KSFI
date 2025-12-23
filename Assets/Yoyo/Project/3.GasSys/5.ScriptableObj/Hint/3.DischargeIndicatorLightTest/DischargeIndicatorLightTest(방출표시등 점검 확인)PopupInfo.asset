@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280198b86e48cc044b5f3d30aae76961, type: 3}
+  m_Name: "DischargeIndicatorLightTest(\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80
+    \uD655\uC778)PopupInfo"
+  m_EditorClassIdentifier: 
+  hintData:
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "1\uBC88 \uBC29\uD638\uAD6C\uC5ED \uCD9C\uC785\uBB38 \uC0C1\uB2E8\uC758
+      \uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC18C\uB4F1\uC0C1\uD0DC\uB97C \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: e6b19a20db3dcaf42a52bf875251e4ab, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC218\uB3D9\uC870\uC791\uD568\uC744 \uC120\uD0DD\uD558\uC5EC \uBC29\uCD9C\uB4F1
+      \uC18C\uB4F1\uC0C1\uD0DC\uB97C \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 8efb93b223119a34cae05fcdde137855, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC57D\uC81C\uC800\uC7A5\uC2E4\uB85C \uC774\uB3D9\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 83ec446f3d5a0f9489ab01dfd52b2e0b, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uAE30\uB3D9\uC6A9\uAE30\uD568\uC744 \uC120\uD0DD\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 4174ccf92e5d2ef419f24867c3d464be, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58 \uD14C\uC2A4\uD2B8 \uBC84\uD2BC\uC744 \uC704\uB85C
+      \uB2F9\uAE30\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 6bf53597158ab4e47957133d58b68883, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58 \uD14C\uC2A4\uD2B8 \uBC84\uD2BC\uC744 \uC704\uB85C
+      \uB2F9\uAE30\uC138\uC694."
+    audioClip: {fileID: 0}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "1\uBC88 \uBC29\uD638\uAD6C\uC5ED \uCD9C\uC785\uBB38\uC73C\uB85C \uC774\uB3D9\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 58ed95cefec5533448e05f5a3ca312b9, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "1\uBC88 \uBC29\uD638\uAD6C\uC5ED \uCD9C\uC785\uBB38 \uC0C1\uB2E8\uC758
+      \uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uB4F1\uC0C1\uD0DC\uB97C \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: ca8d6570771ef564180a7da506af20d6, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC218\uB3D9\uC870\uC791\uD568\uC744 \uC120\uD0DD\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 84216264f25e3e24992d1c7e2f0d0574, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC218\uB3D9\uC870\uC791\uD568 \uBC29\uCD9C\uB4F1 \uC810\uB4F1\uC0C1\uD0DC\uB97C
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1eeaee2515033de469bb2ad2fc760791, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC57D\uC81C \uC800\uC7A5\uC2E4\uB85C \uC774\uB3D9\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 67b561b6cdf84894faa54a31c3468246, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uAE30\uB3D9\uC6A9\uAE30\uD568\uC744 \uC120\uD0DD\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 89d3b24aa7a15ef4bb6be6898f2e22e9, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58 \uD14C\uC2A4\uD2B8 \uBC84\uD2BC\uC744 \uC544\uB798\uB85C
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: f6dc82430f435c94a9480f47c6a2731e, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58 \uD14C\uC2A4\uD2B8 \uBC84\uD2BC\uC744 \uC544\uB798\uB85C
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 0}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58 \uD14C\uC2A4\uD2B8 \uBC84\uD2BC\uC744 \uC544\uB798\uB85C
+      \uB204\uB974\uC138\uC694. <color=black><b>(\uC644\uB8CC)</b></color>"
+    audioClip: {fileID: 0}

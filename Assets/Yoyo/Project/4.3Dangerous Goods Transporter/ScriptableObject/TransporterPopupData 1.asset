@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0e46d3cc9b42ae49a0d1b5e376905bb, type: 3}
+  m_Name: TransporterPopupData 1
+  m_EditorClassIdentifier: 
+  transporterPopups:
+  - titleText: "\uC6B4\uBC18\uC6A9\uAE30 \uD45C\uC9C0"
+    index: 0
+    sideFormat: 1
+    setImageMiddle: 0
+    descriptionText: "<b><color=black>\u25A1 \uC6B4\uBC18\uC6A9\uAE30 \uC678\uBD80
+      \uD45C\uC2DC\uC0AC\uD56D</color></b>\n\n1) \uC704\uD5D8\uBB3C\uC758 \uD488\uBA85\n2)
+      \uC704\uD5D8\uB4F1\uAE09\n3) \uD654\uD559\uBA85 \uBC0F \uC218\uC6A9\uC131\n    
+      (\u2018\uC218\uC6A9\uC131\u2019\uD45C\uC2DC\uB294 \uC81C4\uB958 \uC704\uD5D8\uBB3C\uB85C\uC11C
+      \uC218\uC6A9\uC131\uC778 \uAC83\uC5D0 \uD55C\uD568)\n4) \uC704\uD5D8\uBB3C\uC758
+      \uC218\uB7C9\n5) \uC8FC\uC758\uC0AC\uD56D\n\n\n\u203B \uB2E8, \u300EUN\uC758
+      \uC704\uD5D8\uBB3C \uC6B4\uC1A1\uC5D0 \uAD00\uD55C \uAD8C\uACE0\uC5D0\uC11C
+      \uC815\uD55C \uAE30\uC900 \n    \uB610\uB294 \uC18C\uBC29\uCCAD\uC7A5\uC774
+      \uACE0\uC2DC\uD558\uB294 \uAE30\uC900\u300F\uC5D0 \uC801\uD569\uD55C \uD45C\uC2DC\uB97C
+      \uD55C   \n    \uACBD\uC6B0\uC5D0\uB294 \uC81C\uC678"
+    exampleImage_1: {fileID: 21300000, guid: 674669dade392f945bb16a70d9db8059, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: "\uC6B4\uBC18\uC6A9\uAE30 \uD45C\uC9C0"
+    documentDescriptionText: "\uC6B4\uBC18\uC6A9\uAE30 \uD45C\uC9C0 \uC810\uAC80\uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    popupBgNumber: 0
+    buttonPosition: 2
+    audioClip: {fileID: 8300000, guid: e508fbf7148ae2e49a8be8325fb9721d, type: 3}
+  - titleText: "UN GHS \uACBD\uACE0\uD45C\uC9C0"
+    index: 1
+    sideFormat: 0
+    setImageMiddle: 1
+    descriptionText: "<align=\"center\"><\uC778\uD654\uC131 \uC561\uCCB4\uC778 \uACBD\uC6B0
+      \uC608\uC2DC>"
+    exampleImage_1: {fileID: 21300000, guid: a18a94ac7d35fd748a97df864b4df5d0, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: "UN GHS \uACBD\uACE0\uD45C\uC9C0"
+    documentDescriptionText: "\uC6B4\uBC18\uC6A9\uAE30 UN GHS \uACBD\uACE0\uD45C\uC9C0
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694. "
+    popupBgNumber: 0
+    buttonPosition: 1
+    audioClip: {fileID: 8300000, guid: 5dbca01a4d5646d47b5c3102c0e6552e, type: 3}
+  - titleText: "UN RTDG \uACBD\uACE0\uD45C\uC9C0"
+    index: 2
+    sideFormat: 0
+    setImageMiddle: 1
+    descriptionText: "<align=\"center\"><\uC778\uD654\uC131 \uC561\uCCB4\uC778 \uACBD\uC6B0
+      \uC608\uC2DC>"
+    exampleImage_1: {fileID: 21300000, guid: 22618be9274614a4bbd27be83c6e4e3e, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: "UN RTDG \uACBD\uACE0\uD45C\uC9C0"
+    documentDescriptionText: "\uC6B4\uBC18\uC6A9\uAE30 UN RTDG \uACBD\uACE0\uD45C\uC9C0
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694. "
+    popupBgNumber: 0
+    buttonPosition: 1
+    audioClip: {fileID: 8300000, guid: 9937f120a4637f24b8d20713c4bab82f, type: 3}
+  - titleText: "\uAE30\uACC4 \uD558\uC5ED\uAD6C\uC870 \uC6A9\uAE30 \uD45C\uC2DC\uC0AC\uD56D"
+    index: 3
+    sideFormat: 1
+    setImageMiddle: 0
+    descriptionText: "<b><color=black>\u25A1 \uC6B4\uBC18\uC6A9\uAE30 \uC678\uBD80
+      \uD45C\uC2DC\uC0AC\uD56D</color></b>\n\n1) \uC704\uD5D8\uBB3C\uC758 \uD488\uBA85\xB7\uC704\uD5D8\uB4F1\uAE09\xB7\uD654\uD559\uBA85\L    
+      \uBC0F \uC218\uC6A9\uC131, \uC704\uD5D8\uBB3C\uC758 \uC218\uB7C9, \uC8FC\uC758\uC0AC\uD56D
+      \r\n2) \uC6B4\uBC18\uC6A9\uAE30\uC758 \uC81C\uC870\uB144\uC6D4\n3) \uC81C\uC870\uC790\uC758
+      \uBA85\uCE6D\n4) \uACB9\uCCD0\uC313\uAE30 \uC2DC\uD5D8\uD558\uC911\n5) \uCD5C\uB300\uCD1D\uC911\uB7C9
+      \uB610\uB294 \uCD5C\uB300\uC218\uC6A9\uC911\uB7C9"
+    exampleImage_1: {fileID: 21300000, guid: 10ccad34769ab4041b690f8e589faf64, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: "\uAE30\uACC4 \uD558\uC5ED\uAD6C\uC870 \uC6A9\uAE30 \uD45C\uC2DC\uC0AC\uD56D"
+    documentDescriptionText: "\uAE30\uACC4 \uD558\uC5ED\uAD6C\uC870 \uC6A9\uAE30
+      \uD45C\uC2DC\uC0AC\uD56D \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    popupBgNumber: 0
+    buttonPosition: 2
+    audioClip: {fileID: 8300000, guid: 2935823c688a144458f3cb37c864bcf5, type: 3}
+  - titleText: "\uC704\uD5D8\uC131 \uD45C\uC2DC"
+    index: 4
+    sideFormat: 0
+    setImageMiddle: 0
+    descriptionText: "\uC704\uD5D8\uBB3C\uC6B4\uBC18\uCC28\uB7C9\uC5D0 \uBD80\uCC29\uB418\uC5B4
+      \uC788\uB294 \uD45C\uC9C0, \uADF8\uB9BC\uBB38\uC790 \uBC0F UN\uBC88\uD638\uC758
+      \uD0C8\uC0C9 \uB4F1 \uC190\uC0C1 \uC720\uBB34 \uBC0F \uB0B4\uC6A9\uC758 \uC801\uBD80\uB97C
+      \uD655\uC778\uD569\uB2C8\uB2E4.\r\n\r\n  1) \uC704\uD5D8\uBB3C \uD45C\uC9C0
+      : \uC804\uBA74 \uBC0F \uD6C4\uBA74\r\n  2) UN\uBC88\uD638 : \uC704\uD5D8\uBB3C
+      \uC6B4\uBC18\uCC28\uB7C9 \uD6C4\uBA74 \uBC0F \uC591 \uCE21\uBA74\r\n  3) \uADF8\uB9BC\uBB38\uC790
+      : \uC704\uD5D8\uBB3C \uC6B4\uBC18\uCC28\uB7C9 \uD6C4\uBA74 \uBC0F \uC591 \uCE21\uBA74\r\n 
+      4) \uAE08\uC5F0\uD45C\uC2DC : \uAE08\uC5F0\uC2DC\uC124\uC784\uC744 \uC54C\uB9AC\uBA74
+      \uD45C\uC2DC\r"
+    exampleImage_1: {fileID: 0}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: 
+    documentDescriptionText: 
+    popupBgNumber: 0
+    buttonPosition: 0
+    audioClip: {fileID: 8300000, guid: 5abec951363d06046ae0da282777f874, type: 3}
+  - titleText: "GHS \uADF8\uB9BC\uBB38\uC790"
+    index: 5
+    sideFormat: 0
+    setImageMiddle: 0
+    descriptionText: "<b><color=black>\u25A1 \uC704\uD5D8\uBB3C \uC6B4\uC1A1\xB7\uC6B4\uBC18
+      \uC2DC\uC758 \uC704\uD5D8\uC131 \uACBD\uACE0\uD45C\uC9C0\uC5D0 \uAD00\uD55C
+      \uAE30\uC900 \uC81C3\uC870(\uC704\uD5D8\uC131 \uACBD\uACE0\uD45C\uC9C0)</color></b>\n   
+      \u2462\uC704\uD5D8\uBB3C \uC6B4\uBC18\uCC28\uB7C9\uC5D0 \uADF8\uB9BC\uBB38\uC790\uAC00
+      \uB2E4\uB978 \uC704\uD5D8\uBB3C\uC744 <b><color=black>\uD568\uAED8 \uC801\uC7AC\uD558\uB294
+      \uACBD\uC6B0</color></b>\uC5D0\uB294 \uD574\uB2F9\uC704\uD5D8\uBB3C\uC758 \uADF8\uB9BC\uBB38\uC790\uB97C
+      <b><color=black>\uBAA8\uB450 \uD45C\uC2DC</color></b>\uD558\uC5EC\uC57C \uD55C\uB2E4.\r"
+    exampleImage_1: {fileID: 21300000, guid: 050db911a9a75c14193692ae8aef7cda, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: "\uC704\uD5D8\uC131 \uD45C\uC2DC "
+    documentDescriptionText: "GHS\uADF8\uB9BC\uBB38\uC790 \uBC95\uC801 \uAE30\uC900
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694.\r"
+    popupBgNumber: 0
+    buttonPosition: 0
+    audioClip: {fileID: 8300000, guid: b761edd5e0f2e3d4e89b77583c690147, type: 3}
+  - titleText: "RTDG \uADF8\uB9BC\uBB38\uC790"
+    index: 6
+    sideFormat: 0
+    setImageMiddle: 0
+    descriptionText: "\u25A1 \uC704\uD5D8\uBB3C \uC6B4\uC1A1\xB7\uC6B4\uBC18 \uC2DC\uC758
+      \uC704\uD5D8\uC131 \uACBD\uACE0\uD45C\uC9C0\uC5D0 \uAD00\uD55C \uAE30\uC900\r\n\r\n\uC81C3\uC870(\uC704\uD5D8\uC131
+      \uACBD\uACE0\uD45C\uC9C0)\r\n\u2462 \uC704\uD5D8\uBB3C \uC6B4\uBC18\uCC28\uB7C9\uC5D0
+      \uADF8\uB9BC\uBB38\uC790\uAC00 \uB2E4\uB978 \uC704\uD5D8\uBB3C\uC744 \uD568\uAED8
+      \uC801\uC7AC\uD558\uB294 \uACBD\uC6B0\uC5D0\uB294 \uD574\uB2F9\uC704\uD5D8\uBB3C\uC758
+      \uADF8\uB9BC\uBB38\uC790\uB97C \uBAA8\uB450 \uD45C\uC2DC\uD558\uC5EC\uC57C
+      \uD55C\uB2E4.\r\n"
+    exampleImage_1: {fileID: 0}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: "\uC704\uD5D8\uC131 \uD45C\uC2DC "
+    documentDescriptionText: "RTDG\uADF8\uB9BC\uBB38\uC790 \uBC95\uC801 \uAE30\uC900
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694.\r"
+    popupBgNumber: 0
+    buttonPosition: 0
+    audioClip: {fileID: 8300000, guid: f92115f2f3d235b41a324958c6617541, type: 3}
+  - titleText: "UN\uBC88\uD638"
+    index: 7
+    sideFormat: 0
+    setImageMiddle: 0
+    descriptionText: "<b><color=black>\u25A1 \uC704\uD5D8\uBB3C \uC6B4\uC1A1\xB7\uC6B4\uBC18
+      \uC2DC\uC758 \uC704\uD5D8\uC131 \uACBD\uACE0\uD45C\uC9C0\uC5D0 \uAD00\uD55C
+      \uAE30\uC900</color></b>\n    <b><color=black>\uC81C3\uC870(\uC704\uD5D8\uC131
+      \uACBD\uACE0\uD45C\uC9C0)</color></b>\n    \u2463 \uC704\uD5D8\uBB3C \uC6B4\uBC18\uCC28\uB7C9\uC5D0
+      \uC801\uC7AC\uD558\uB294 \uC704\uD5D8\uBB3C\uC758 \uCD1D\uB7C9\uC774 4,000kg\uC774\uD558\uC774\uAC70\uB098
+      <b><color=black>UN\uBC88\uD638\uAC00 \uB2E4\uB978 \uC704\uD5D8\uBB3C\uC744
+      \uD568\uAED8 \uC801\uC7AC\uD558\uB294 \n       \uACBD\uC6B0\uC5D0\uB294 UN\uBC88\uD638\uB97C
+      \uD45C\uC2DC\uD558\uC9C0 \uC544\uB2C8\uD55C\uB2E4.</color></b>"
+    exampleImage_1: {fileID: 21300000, guid: 58d04887c1ccedf4586e5170b05ee804, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: 
+    documentDescriptionText: 
+    popupBgNumber: 0
+    buttonPosition: 0
+    audioClip: {fileID: 0}
+  - titleText: "\uC18C\uD654\uAE30"
+    index: 8
+    sideFormat: 0
+    setImageMiddle: 0
+    descriptionText: "\uC18C\uD654 \uC801\uC751\uC131 \uBC0F \uC218\uB7C9\uC744 \uD655\uC778\uD558\uACE0
+      \uC555\uB825 \uBC0F \uB0B4\uC6A9\uC5F0\uC218\uB97C \uD655\uC778\uD569\uB2C8\uB2E4.\r\n\r\n1)
+      \uC6B4\uBC18\uD558\uB294 \uC704\uD5D8\uBB3C\uC5D0 \uC801\uC751\uC131\uC774
+      \uC788\uB294 \uC18C\uD654\uAE30\uC758 \uC885\uB958 \uBC0F \uC218\uB7C9 \uD655\uC778
+      \r\n2) \uBD84\uB9D0\uC18C\uD654\uAE30\uC758 \uC815\uC0C1 \uC555\uB825\uBC94\uC704
+      \uD655\uC778(0.7 ~ 0.98MPa : \uB179\uC0C9\uBC94\uC704)\r\n3) \uBD84\uB9D0\uC18C\uD654\uAE30
+      \uB0B4\uAD6C\uC5F0\uD55C : 10\uB144\r"
+    exampleImage_1: {fileID: 0}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: 
+    documentDescriptionText: 
+    popupBgNumber: 0
+    buttonPosition: 0
+    audioClip: {fileID: 0}
+  - titleText: "\uC704\uD5D8\uBB3C \uC6B4\uBC18\uCC28\uB7C9 \uC18D\uB3C4 \uAE30\uC900"
+    index: 9
+    sideFormat: 0
+    setImageMiddle: 0
+    descriptionText: 
+    exampleImage_1: {fileID: 21300000, guid: df73cb3bdf20f6148893a0140c0141b1, type: 3}
+    exampleImage_2: {fileID: 0}
+    documentTitleText: 
+    documentDescriptionText: 
+    popupBgNumber: 0
+    buttonPosition: 1
+    audioClip: {fileID: 0}

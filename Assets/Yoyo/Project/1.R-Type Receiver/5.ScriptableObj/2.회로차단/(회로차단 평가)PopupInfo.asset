@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280198b86e48cc044b5f3d30aae76961, type: 3}
+  m_Name: "(\uD68C\uB85C\uCC28\uB2E8 \uD3C9\uAC00)PopupInfo"
+  m_EditorClassIdentifier: 
+  hintData:
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "R\uD615\uC218\uC2E0\uAE30 \uD68C\uB85C\uB2E8\uC120 \uC870\uCE58\uBC29\uBC95
+      \uD3C9\uAC00\uB97C \uC9C4\uD589\uD558\uACA0\uC2B5\uB2C8\uB2E4. \r\n\uB2E4\uC74C\uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: aabe2eba00738a144a895c1faf989468, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uD68C\uB85C\uB2E8\uC120 \uC2E0\uD638\uAC00 \uC785\uB825\uB418\uC5C8\uC2B5\uB2C8\uB2E4.
+      \uC74C\uD5A5\uC7A5\uCE58\uB97C \uC815\uC9C0\uD574\uC8FC\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a183ab3f656379e49908ffc48fc5de88, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uB514\uC2A4\uD50C\uB808\uC774\uCC3D\uC758 \uD68C\uB85C\uB2E8\uC120 \uC2A4\uC704\uCE58\uB97C
+      \uB20C\uB7EC \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: e0e05dc8a4198e84cbb9c3e51ba824a8, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC911\uACC4\uAE30 \uD68C\uB85C \uB2E8\uC120\uC744 \uD655\uC778\uD558\uC600\uC2B5\uB2C8\uB2E4.
+      \uC911\uACC4\uAE30 \uC815\uBCF4\uB97C \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: b46ed394da757504fbef487bcefb3ccb, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC774\uC0C1\uC2E0\uD638 \uC911\uACC4\uAE30\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uC815\uBCF4\uB97C \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1b9244c5c6e076749acdae8f1a52aeb1, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC7AC\uC811\uC18D \uC2A4\uC704\uCE58\uB97C \uB20C\uB7EC \uC911\uACC4\uAE30
+      \uD1B5\uC2E0\uC744 \uC7AC\uC811\uC18D\uD574\uBCF4\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 2d6a5472adb306342bcd3cbdd96b879a, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC911\uACC4\uAE30 \uC774\uC0C1\uC2E0\uD638 \uBCF5\uAD6C\uAC00 \uB418\uC9C0
+      \uC54A\uC2B5\uB2C8\uB2E4. 2\uCE35 2\uAD6C\uC5ED \uD604\uC7A5\uC73C\uB85C \uC774\uB3D9\uD558\uC5EC
+      \uD604\uC7A5\uC870\uCE58\uB97C \uC9C4\uD589\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a045ece252201474ca0f75956de96816, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC18C\uD654\uC804 \uD568\uC758 \uC0C1\uBD80\uB97C \uAC1C\uBC29\uD558\uC5EC
+      \uC911\uACC4\uAE30\uB97C \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 78aa5194f2b268f40a45d342c3118ac0, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uBA40\uD2F0\uD14C\uC2A4\uD130\uAE30\uB97C \uC774\uC6A9\uD558\uC5EC \uC911\uACC4\uAE30
+      \uC120\uB85C \uC804\uC555\uC744 \uCE21\uC815\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: b94235590e052ae47b4948d3d32fc9ea, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uBA40\uD2F0\uD14C\uC2A4\uD130\uAE30\uB97C \uC774\uC6A9\uD558\uC5EC \uC911\uACC4\uAE30
+      \uC804\uC6D0\uC758 \uC804\uC555\uC744 \uCE21\uC815\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a75548bb887d11c4ca68d556c19dc5d5, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC804\uC555\uC774 \uCE21\uC815\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uC633\uC740
+      \uAC83\uC744 \uACE0\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 704e09e3bd7b14e418a4a740f172e0ed, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uBA40\uD2F0\uD14C\uC2A4\uD130\uAE30\uB97C \uC774\uC6A9\uD558\uC5EC \uC911\uACC4\uAE30
+      \uD1B5\uC2E0\uC120\uB85C\uC758 \uC804\uC555\uC744 \uCE21\uC815\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: c2c1eda62ab08b54eba78c431133e5fc, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC804\uC555\uC774 \uCE21\uC815\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uC633\uC740
+      \uAC83\uC744 \uACE0\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 704e09e3bd7b14e418a4a740f172e0ed, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uBA40\uD2F0\uD14C\uC2A4\uD130\uAE30\uB97C \uC774\uC6A9\uD558\uC5EC \uAC10\uC9C0\uAE30
+      \uC120\uB85C\uC758 \uC804\uC555\uC744 \uCE21\uC815\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 4a15ac992cdac634d84cb297e0ab2f89, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uC804\uC555\uC774 \uCE21\uC815\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uC633\uC740
+      \uAC83\uC744 \uACE0\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 704e09e3bd7b14e418a4a740f172e0ed, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "\uD574\uB2F9 \uAD6C\uC5ED \uC120\uB85C\uACF5\uC0AC\uB97C \uC644\uB8CC\uD558\uC600\uC2B5\uB2C8\uB2E4.
+      \uC218\uC2E0\uAE30\uB85C \uC774\uB3D9\uD574 \uC8FC\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1f01cf2b369ca9f4eade2b2e4641037e, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "R\uD615 \uC218\uC2E0\uAE30 \uD68C\uB85C\uB2E8\uC120 \uC870\uCE58\uB97C
+      \uC644\uB8CC\uD558\uC600\uC2B5\uB2C8\uB2E4. \uC218\uC2E0\uAE30\uB97C \uC815\uC0C1\uC73C\uB85C
+      \uBCF5\uAD6C\uD574\uC8FC\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 3fd84dc2e1cbee44fa8db3c31441d3c0, type: 3}
+  - title: "\uD68C\uB85C\uB2E8\uC120"
+    text: "R\uD615 \uC218\uC2E0\uAE30 \uD68C\uB85C\uB2E8\uC120 \uC870\uCE58\uB97C
+      \uC644\uB8CC\uD558\uC600\uC2B5\uB2C8\uB2E4. \uC218\uC2E0\uAE30\uB97C \uC815\uC0C1\uC73C\uB85C
+      \uBCF5\uAD6C\uD574\uC8FC\uC138\uC694."
+    audioClip: {fileID: 0}

@@ -1,0 +1,1258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257f03e741b0d6142a3368a22c655c47, type: 3}
+  m_Name: DangerousGoods_DocumentList
+  m_EditorClassIdentifier: 
+  documentList:
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC11C\uB958\uC810\uAC80\uC744 \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 33e19b0ff73efab48a9da08b7f8a22c0, type: 3}
+    checkDuplication: 0
+    id: 0
+    buttonNames:
+    - DocumentButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790 \uC120\uC784\uC744 \uC120\uD0DD\uD558\uC5EC
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: a3323d1690e2dde499d663bcf2759e6d, type: 3}
+    checkDuplication: 0
+    id: 1
+    buttonNames:
+    - ManagerAppointment
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC704\uD5D8\uBB3C\uCDE8\uAE09\uC790\uC758 \uC790\uACA9\uC694\uAC74\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: bda2fd104210c6c49a122cc274a5e055, type: 3}
+    checkDuplication: 0
+    id: 2
+    buttonNames:
+    - CheckComplete
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uB300\uB9AC\uC790 \uC9C0\uC815\uC744 \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 6b9812c3ea4e7f84b884ac915535dbab, type: 3}
+    checkDuplication: 0
+    id: 3
+    buttonNames:
+    - ProxyDesignation
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC704\uD5D8\uBB3C\uB300\uB9AC\uC790 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB300\uB9AC\uC790 \uC9C0\uC815\uC11C \uC608\uC2DC\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: c7d044f19c2b79b4ba95c795f4dfa56d, type: 3}
+    checkDuplication: 0
+    id: 4
+    buttonNames:
+    - ExampleButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uB300\uB9AC\uC790 \uB0B4\uC6A9 \uBC0F \uB300\uB9AC\uC790 \uC9C0\uC815\uC11C
+      \uC608\uC2DC\uB97C \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 59763b7d504150e4f93b3d6a449a268f, type: 3}
+    checkDuplication: 0
+    id: 5
+    buttonNames:
+    - SubCheckComplete
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC2E4\uBB34\uAD50\uC721\uC744 \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 14ffbcb5bf716b5498b05d0efe4e0306, type: 3}
+    checkDuplication: 0
+    id: 6
+    buttonNames:
+    - TrainingCompletion
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC2E4\uBB34\uAD50\uC721 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 332b18f1a596f614fafee2d0ca78b17e, type: 3}
+    checkDuplication: 0
+    id: 7
+    buttonNames:
+    - CheckComplete
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uBE44\uC0C1\uC5F0\uB77D\uB9DD\uC744 \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 5e1bd36407b04b44699ca3be155f583e, type: 3}
+    checkDuplication: 0
+    id: 8
+    buttonNames:
+    - CheckEmergencyContactList
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uBE44\uC0C1\uC5F0\uB77D\uB9DD \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: ebc9243551a992d4fb2e0ab618f646b9, type: 3}
+    checkDuplication: 0
+    id: 9
+    buttonNames:
+    - CheckComplete
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC704\uD5D8\uBB3C \uCDE8\uAE09\uC77C\uC9C0\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: efbc71aba479eae43be0b9cf1e13eafe, type: 3}
+    checkDuplication: 0
+    id: 10
+    buttonNames:
+    - HazardousMaterialsHandlingLog
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC704\uD5D8\uBB3C \uCDE8\uAE09\uC77C\uC9C0\uC758 \uC791\uC131\uB300\uC0C1,
+      \uC791\uC131\uC2DC\uAE30, \uC791\uC131\uC790, \uC791\uC131\uBC29\uBC95\uC744
+      \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 70b36614a2442b24ea2d01391e7a1039, type: 3}
+    checkDuplication: 0
+    id: 11
+    buttonNames:
+    - CheckComplete
+    - Button
+    - Button (1)
+    - Button (2)
+    - Button (3)
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC815\uAE30\uC810\uAC80\uC744 \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 6c960a0576e53c04c88e0bf342dfc0ab, type: 3}
+    checkDuplication: 0
+    id: 12
+    buttonNames:
+    - RoutineInspectionChecklist
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC815\uAE30\uC810\uAC80\uC758 \uC810\uAC80\uD69F\uC218, \uBCF4\uC874\uC5F0\uD55C,
+      \uC81C\uCD9C\uAE30\uD55C, \uC81C\uCD9C\uCC98\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 83eadbb7a9b7da14a9abb7595be4cf77, type: 3}
+    checkDuplication: 0
+    id: 13
+    buttonNames:
+    - CheckComplete
+    - Button
+    - Button (1)
+    - Button (2)
+    - Button (3)
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC11C\uB958\uC810\uAC80"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uC758 \uC11C\uB958\uC810\uAC80\uC744
+      \uC644\uB8CC\uD558\uC600\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB20C\uB7EC \uC815\uAE30\uC810\uAC80\uC744 \uC9C4\uD589\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 5331a07a3738f084d812728390da4ad5, type: 3}
+    checkDuplication: 0
+    id: 14
+    buttonNames:
+    - AllCheckComplete
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uAE30\uC810\uAC80"
+    document: "\uC8FC\uC720\uCDE8\uAE09\uC18C\uC758 \uC8FC\uC694 \uC810\uAC80\uD56D\uBAA9\uC785\uB2C8\uB2E4.
+      \uC810\uAC80\uD56D\uBAA9\uC744 \uC120\uD0DD\uD558\uC5EC \uC815\uAE30\uC810\uAC80\uC744
+      \uC2E4\uC2DC\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 9546c94bcc322f540894320ccbdee85f, type: 3}
+    checkDuplication: 0
+    id: 15
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720\uACF5\uC9C0 \uB108\uBE44, \uAE38\uC774"
+    document: "\uC8FC\uC720\uACF5\uC9C0 \uB108\uBE44, \uAE38\uC774\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 13829ad583af7b64689b13440836af5c, type: 3}
+    checkDuplication: 0
+    id: 16
+    buttonNames:
+    - Width,LengthCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720\uACF5\uC9C0 \uB108\uBE44, \uAE38\uC774"
+    document: "\uC8FC\uC720\uACF5\uC9C0 \uB108\uBE44, \uAE38\uC774 \uC810\uAC80\uD56D\uBAA9\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5fd10cfbaaf35b448aeae3f43fb9418a, type: 3}
+    checkDuplication: 0
+    id: 17
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC7A5\uC560\uBB3C"
+    document: "\uC7A5\uC560\uBB3C\uC744 \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1d9c06e074db99845a2e2553e602e2fe, type: 3}
+    checkDuplication: 0
+    id: 18
+    buttonNames:
+    - ObstacleCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC7A5\uC560\uBB3C"
+    document: "\uC7A5\uC560\uBB3C \uC810\uAC80 \uD56D\uBAA9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: ea3428e769b62cb4d8b3a05233f573fd, type: 3}
+    checkDuplication: 0
+    id: 19
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720\xB7\uAE09\uC720\uACF5\uC9C0"
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 20
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720\xB7\uAE09\uC720\uACF5\uC9C0"
+    document: "\uC810\uAC80\uACB0\uACFC \uC7A5\uC560\uBB3C\uC774 \uC5C6\uC74C\uC744
+      \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4. \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: e8e653ec3792700428a9c45c8e7a25c6, type: 3}
+    checkDuplication: 0
+    id: 21
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uC720\uBD84\uB9AC\uC7A5\uCE58"
+    document: "\uC720\uBD84\uB9AC\uC7A5\uCE58 \uC810\uAC80\uC744 \uC120\uD0DD\uD558\uC5EC
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: 01cdd61942d902e45a46e8a1aed5c384, type: 3}
+    checkDuplication: 0
+    id: 22
+    buttonNames:
+    - OilSeparatorCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC720\uBD84\uB9AC\uC7A5\uCE58"
+    document: "\uC720\uBD84\uB9AC\uC7A5\uCE58 \uC810\uAC80\uD56D\uBAA9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 282bf4e467a2e65449a36055d3436367, type: 3}
+    checkDuplication: 0
+    id: 23
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC30\uC218\uAD6C"
+    document: "\uBC30\uC218\uAD6C\uB97C \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 05d46db11a9083840828e768782fd826, type: 3}
+    checkDuplication: 0
+    id: 24
+    buttonNames:
+    - WaterSpoutCheck
+    - effect_1
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC30\uC218\uAD6C"
+    document: "\uBC30\uC218\uAD6C \uC810\uAC80\uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 2a517a4788d10e44f80f67bccb40e413, type: 3}
+    checkDuplication: 0
+    id: 25
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC30\uC218\uAD6C, \uC720\uBD84\uB9AC\uC7A5\uCE58 "
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 26
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC30\uC218\uAD6C, \uC720\uBD84\uB9AC\uC7A5\uCE58 "
+    document: "\uC810\uAC80\uACB0\uACFC \uADE0\uC5F4 \uBC0F \uC190\uC0C1\uC740 \uC5C6\uC5C8\uC73C\uB098,
+      <b><color=#FF0000>\uD1A0\uC0AC\uD1F4\uC801</color></b>\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.
+      \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a1cedb36002d1654a8f3abb025fe1b74, type: 3}
+    checkDuplication: 0
+    id: 27
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uBC29\uD654\uB2F4 "
+    document: "\uBC29\uD654\uB2F4 \uADE0\uC5F4\xB7\uC190\uC0C1\xB7\uACBD\uC0AC \uB4F1\uC744
+      \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: c7ed60fb93d2665448667797330f232b, type: 3}
+    checkDuplication: 0
+    id: 28
+    buttonNames:
+    - 'Crack,DamageCheck '
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uD654\uB2F4 "
+    document: "\uBC29\uD654\uB2F4 \uADE0\uC5F4\xB7\uC190\uC0C1\xB7\uACBD\uC0AC \uB4F1\uC5D0
+      \uB300\uD55C \uC810\uAC80\uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 73599c67818905f4198005686e5df137, type: 3}
+    checkDuplication: 0
+    id: 29
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uD654\uB2F4 "
+    document: "\uBC29\uD654\uB2F4 \uB192\uC774 \uBC0F \uC774\uACA9\uAC70\uB9AC\uB97C
+      \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5f8013dbe0267034cac1773ca0a8e1df, type: 3}
+    checkDuplication: 0
+    id: 30
+    buttonNames:
+    - Height,GapCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uD654\uB2F4 "
+    document: "\uBC29\uD654\uB2F4 \uB192\uC774 \uBC0F \uC774\uACA9\uAC70\uB9AC\uC5D0
+      \uB300\uD55C \uC810\uAC80\uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: b5ad7a2bec3d62a4baf228875899235d, type: 3}
+    checkDuplication: 0
+    id: 31
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uD654\uB2F4"
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 32
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uD654\uB2F4 "
+    document: "\uC810\uAC80\uACB0\uACFC \uC774\uC0C1 \uC5C6\uC74C\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.
+      \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1ec2ffdf7ea3b314a9af9a1a3ee5f60b, type: 3}
+    checkDuplication: 0
+    id: 33
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uAC10\uC2DC\uB300"
+    document: "\uAC10\uC2DC\uB300\uB97C \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 20ab8490dc6129445bf31ac938101a9b, type: 3}
+    checkDuplication: 0
+    id: 34
+    buttonNames:
+    - WatchtowerPlace
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uB300"
+    document: "\uAC10\uC2DC\uB300 \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 0b95c748a4ebe6241aa1a3ac8490fb80, type: 3}
+    checkDuplication: 0
+    id: 35
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uC124\uBE44"
+    document: "\uAC10\uC2DC\uC124\uBE44\uB97C \uC120\uD0DD\uD558\uC5EC \uC810\uAC80
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: f601ebdf2206e6a4a9a17f916acc3286, type: 3}
+    checkDuplication: 0
+    id: 36
+    buttonNames:
+    - CCTV
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uC124\uBE44"
+    document: "\uAC10\uC2DC\uC124\uBE44 \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: c45f832d6b7c3534591569c9d34db81c, type: 3}
+    checkDuplication: 0
+    id: 37
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)"
+    document: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)\uB97C
+      \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 0880589b7e40933409e5645c196ae72c, type: 3}
+    checkDuplication: 0
+    id: 38
+    buttonNames:
+    - Controller
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)"
+    document: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 527d55f03ef529b42a57818ca1105ef2, type: 3}
+    checkDuplication: 0
+    id: 39
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uC1A1\uAE30\uAE30"
+    document: "\uBC29\uC1A1\uAE30\uAE30\uB97C \uC120\uD0DD\uD558\uC5EC \uC810\uAC80
+      \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 8ff7c21e57617ff4f8c2794a375ff6d1, type: 3}
+    checkDuplication: 0
+    id: 40
+    buttonNames:
+    - Mics
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBC29\uC1A1\uAE30\uAE30"
+    document: "\uBC29\uC1A1\uAE30\uAE30\uC758 \uC810\uAC80\uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: bbd9677665403d843859418d7f5ca8b0, type: 3}
+    checkDuplication: 0
+    id: 41
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uB300 \uB4F1 "
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 42
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uB300 \uB4F1 "
+    document: "\uC810\uAC80\uACB0\uACFC \uC774\uC0C1 \uC5C6\uC74C\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.
+      \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1ec2ffdf7ea3b314a9af9a1a3ee5f60b, type: 3}
+    checkDuplication: 0
+    id: 43
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uC8FC\uC785\uAD6C"
+    document: "\uC8FC\uC785\uAD6C\uB97C \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 953da76f89029264eb5fe947c1e0b496, type: 3}
+    checkDuplication: 0
+    id: 44
+    buttonNames:
+    - GroundingElectrodeCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC785\uAD6C"
+    document: "\uC8FC\uC785\uAD6C \uC810\uAC80\uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 50ba1bb8fb952a54db3a132933ee2855, type: 3}
+    checkDuplication: 0
+    id: 45
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC785\uAD6C\uC758 \uD53C\uD2B8"
+    document: "\uC8FC\uC785\uAD6C\uC758 \uD53C\uD2B8\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 84b229acb1e823f49b21c90663fa89b4, type: 3}
+    checkDuplication: 0
+    id: 46
+    buttonNames:
+    - OilInletsFeedCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC785\uAD6C\uC758 \uD53C\uD2B8"
+    document: "\uC8FC\uC785\uAD6C\uC758 \uD53C\uD2B8 \uC810\uAC80\uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: f366628d6fd4a5c419bdc868b62d10ba, type: 3}
+    checkDuplication: 0
+    id: 47
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC785\uAD6C \uBC0F \uC8FC\uC785\uAD6C \uD53C\uD2B8"
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 48
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC785\uAD6C \uBC0F \uC8FC\uC785\uAD6C \uD53C\uD2B8"
+    document: "\uC8FC\uC785\uAD6C\uC758 \uC811\uC9C0\uC804\uADF9\uC5D0\uB294 \uC774\uC0C1\uC774
+      \uC5C6\uC5C8\uC73C\uB098,  \uC8FC\uC785\uAD6C\uC758 \uD53C\uD2B8 \uB0B4\uBD80\uC5D0
+      <b><color=#FF0000>\uD1A0\uC0AC\uAC00 \uD1F4\uC801</color></b>\uB418\uC788\uC74C\uC744
+      \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4. \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a7d620e34b4ad4541aa79f514d58b077, type: 3}
+    checkDuplication: 0
+    id: 49
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    document: "\uC815\uC804\uAE30\uC81C\uAC70\uC124\uBE44\uB97C \uC120\uD0DD\uD558\uC5EC
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 3ef92fe0dccbdc440b98a375d7c33171, type: 3}
+    checkDuplication: 0
+    id: 50
+    buttonNames:
+    - SERECheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    document: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44 \uC810\uAC80\uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: adcf64788e19b72439406432cbb9d86c, type: 3}
+    checkDuplication: 0
+    id: 51
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815 "
+    document: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815\uC744 \uC120\uD0DD\uD558\uC5EC
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 923a360170fc8e94b8d8f07bd923bd51, type: 3}
+    checkDuplication: 0
+    id: 52
+    buttonNames:
+    - DisconnectionCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    document: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815 \uC810\uAC80\uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uACE0 2\uC804\uADF9\uBC95 \uCE21\uC815\uC608\uC2DC\uB97C
+      \uC120\uD0DD\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1a04440515547f741a735d83955fe8bc, type: 3}
+    checkDuplication: 0
+    id: 53
+    buttonNames:
+    - SubPopupSetButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    document: "\uAC80\uC815\uC0C9 \uCE21\uC815 \uB9AC\uB4DC\uC120\uC744 E\uB2E8\uC790\uC5D0
+      \uBE68\uAC04\uC0C9 \uCE21\uC815 \uB9AC\uB4DC\uC120\uC744 P\uB2E8\uC790\uC5D0
+      \uAC01\uAC01 \uC5F0\uACB0\uD558\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: 26ef56fc389f4304d8ddaed41b3ca0be, type: 3}
+    checkDuplication: 0
+    id: 54
+    buttonNames:
+    - Blackend
+    - Redend
+    - Blackplug
+    - Redplug
+    removeButton: 1
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    document: "\uCE21\uC815\uAE30\uC758 2\uC804\uADF9\uBC95 \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: 486bf1341c8a14b489b98cfb2673a0f4, type: 3}
+    checkDuplication: 0
+    id: 55
+    buttonNames:
+    - EAR2WButton
+    removeButton: 1
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    document: "\uCE21\uC815 \uB9AC\uB4DC\uC120\uC744 \uAC01\uAC01 \uC8FC\uC720\uC124\uBE44
+      \uCCA0\uC7AC \uC678\uD568\uACFC \uCC28\uB2E8\uAE30\uC758 \uC911\uC131\uC120(N)\uC5D0
+      \uC5F0\uACB0\uD558\uC138\uC694.\n"
+    audioClip: {fileID: 8300000, guid: 53d06441e65392f46901f18278771ad9, type: 3}
+    checkDuplication: 0
+    id: 56
+    buttonNames:
+    - BlackPen
+    - RedPen
+    - BlackSetPlace
+    - RedSetPlace
+    removeButton: 1
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    document: "\uCE21\uC815\uAE30\uC758 TEST \uBC84\uD2BC\uC744 \uB20C\uB7EC \uC811\uC9C0\uC800\uD56D\uC744
+      \uCE21\uC815\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 89ae89219b0565b4286d04cb4e2315c4, type: 3}
+    checkDuplication: 0
+    id: 57
+    buttonNames:
+    - PowerButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    document: "\uCE21\uC815\uB41C \uC811\uC9C0\uC800\uD56D \uAC12\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: cd2d4cbfc5a4f4641bccf65da7c46715, type: 3}
+    checkDuplication: 0
+    id: 58
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 59
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    document: "\uC810\uAC80\uACB0\uACFC \uC190\uC0C1\uB41C \uBD80\uBD84\uC740 \uC5C6\uC5C8\uC73C\uBA70,
+      \uC811\uC9C0\uC800\uD56D\uC740 <color=red>16.2\u03A9</color>\uC774 \uCE21\uC815\uB418\uC5C8\uC2B5\uB2C8\uB2E4.
+      \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: 17365fe5618c20e41bba21714399bf41, type: 3}
+    checkDuplication: 0
+    id: 60
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310"
+    document: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310\uC744 \uC120\uD0DD\uD558\uC5EC
+      \uC810\uAC80 \uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a81f2db017c8a6e4694b7ba826015184, type: 3}
+    checkDuplication: 0
+    id: 61
+    buttonNames:
+    - NoticeBoard
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310"
+    document: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310\uC5D0 \uB300\uD55C \uC810\uAC80\uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a5f0dd1c2a065464094fcf40687fe021, type: 3}
+    checkDuplication: 0
+    id: 62
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310"
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 63
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310"
+    document: "\uC810\uAC80\uACB0\uACFC \uC190\uC0C1\uB41C \uAC8C\uC2DC\uD310\uC740
+      \uC5C6\uC5C8\uC73C\uB098, <b><color=#FF0000>\uD761\uC5F0\uAE08\uC9C0 \uD45C\uC9C0\uAC00
+      \uB204\uB77D</color></b>\uB41C \uAC83\uC744 \uD655\uC778\uD558\uC600\uC2B5\uB2C8\uB2E4.
+      \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 0e9cf807b16d9bd45b0bf3d61fd1c5ed, type: 3}
+    checkDuplication: 0
+    id: 64
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uC18C\uD654\uAE30"
+    document: "\uC18C\uD654\uAE30\uB97C \uC120\uD0DD\uD558\uC5EC \uC810\uAC80 \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 3e0721a159a4ccf4a978d10543602cfa, type: 3}
+    checkDuplication: 0
+    id: 65
+    buttonNames:
+    - FireExtinguisher
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC18C\uD654\uAE30"
+    document: "\uC18C\uD654\uAE30 \uC810\uAC80\uB0B4\uC6A9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 336811cbf9863544ea3464112bce5cb5, type: 3}
+    checkDuplication: 0
+    id: 66
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC18C\uD654\uAE30"
+    document: "\uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5c73c631b5aec7f4cbf72ba2f325b2c5, type: 3}
+    checkDuplication: 0
+    id: 67
+    buttonNames:
+    - CheckListButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC18C\uD654\uAE30"
+    document: "\uC810\uAC80\uACB0\uACFC \uC774\uC0C1 \uC5C6\uC74C\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.
+      \uC810\uAC80\uD45C\uB97C \uC791\uC131\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1ec2ffdf7ea3b314a9af9a1a3ee5f60b, type: 3}
+    checkDuplication: 0
+    id: 68
+    buttonNames: []
+    removeButton: 1
+    isCheckListOn: 1
+  - title: "\uC815\uAE30\uC810\uAC80"
+    document: "\uC8FC\uC720\uCDE8\uAE09\uC18C\uC758 \uC8FC\uC694 \uC810\uAC80\uD56D\uBAA9\uC5D0
+      \uB300\uD55C \uC810\uAC80\uC744 \uC644\uB8CC\uD558\uC600\uC2B5\uB2C8\uB2E4.
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB20C\uB7EC \uBE44\uC0C1\uB300\uC751(\uD654\uC7AC)
+      \uB2E8\uACC4\uB97C \uC9C4\uD589\uD558\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: c06ea061ffb38e04aa79cce16247383a, type: 3}
+    checkDuplication: 0
+    id: 69
+    buttonNames: []
+    removeButton: 2
+    isCheckListOn: 0
+  - title: "\uCC28\uB7C9\uC9C4\uC785"
+    document: "\uC8FC\uC720\uC18C\uC5D0 \uCC28\uB7C9\uC774 \uC9C4\uC785\uD569\uB2C8\uB2E4.
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: c4d0cb2ba6524a84a8f1cf056693a419, type: 3}
+    checkDuplication: 0
+    id: 70
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    document: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44\uB97C \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 3076b45e0ce2ce649a6e031d287a3906, type: 3}
+    checkDuplication: 0
+    id: 71
+    buttonNames:
+    - Anti-StaticPad
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    document: "\uC815\uC804\uAE30 \uBC29\uC9C0\uD328\uB4DC\uB97C \uD655\uC778\uD558\uC600\uC9C0\uB9CC
+      \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 717c5fbdce17906499fa0c6a0ff08114, type: 3}
+    checkDuplication: 0
+    id: 72
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720\uAD6C \uAC1C\uBC29"
+    document: "\uCC28\uB7C9\uC758 \uC8FC\uC720\uAD6C\uB97C \uC5F4\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: 4d87c2f535ef30d499c4a983c5aea16c, type: 3}
+    checkDuplication: 0
+    id: 73
+    buttonNames:
+    - OpenGasPump
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720 \uC911"
+    document: "\uACE0\uAC1D\uC774 \uCC28\uB7C9\uC5D0 \uC8FC\uC720\uAE30\uB97C \uB123\uACE0
+      \uC8FC\uC720\uB97C \uD558\uACE0 \uC788\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: c1f3e8b3abde42547b401d331a5a49c0, type: 3}
+    checkDuplication: 0
+    id: 74
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720 \uC911 \uD761\uC5F0"
+    document: "\uC8FC\uC720\uAE30\uB97C \uAF42\uC740 \uCC44 \uACE0\uAC1D\uC774 \uD761\uC5F0\uC744
+      \uC2DC\uC791\uD569\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: ff31ee31c22b0444ea80b6854abfce6c, type: 3}
+    checkDuplication: 0
+    id: 75
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720 \uC911 \uD761\uC5F0"
+    document: "\uAC10\uC2DC\uC124\uBE44\uB97C \uC120\uD0DD\uD558\uC5EC \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: f05e7dd26c462804393be8a8231310cb, type: 3}
+    checkDuplication: 0
+    id: 76
+    buttonNames:
+    - CheckCCTV
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720 \uC911 \uD761\uC5F0"
+    document: "\uAC10\uC2DC\uC124\uBE44\uB97C \uD1B5\uD574 \uACE0\uAC1D\uC758 \uD761\uC5F0\uD558\uB294
+      \uBAA8\uC2B5\uC744 \uD655\uC778\uD558\uC600\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: 691f2e024f6a2474ea1178b450d742d8, type: 3}
+    checkDuplication: 0
+    id: 77
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uB300"
+    document: "\uAC10\uC2DC\uC124\uBE44\uB85C \uD574\uB2F9 \uC7A5\uBA74\uC744 \uD655\uC778\uD558\uACE0
+      \uBC29\uC1A1\uC124\uBE44\uB97C \uC120\uD0DD\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: b24cad5499bed2d42b7bd007d456ad0e, type: 3}
+    checkDuplication: 0
+    id: 78
+    buttonNames:
+    - Mic
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uAC10\uC2DC\uB300"
+    document: "\uBC29\uC1A1\uC124\uBE44\uB97C \uD1B5\uD574 \uACE0\uAC1D\uC5D0\uAC8C
+      \uC8FC\uC720\uC18C\uAC00 \uAE08\uC5F0\uAD6C\uC5ED\uC784\uC744 \uC548\uB0B4\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1d5b3c9f2f6deb6419800de6ccd3c544, type: 3}
+    checkDuplication: 0
+    id: 79
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC758\uC694\uCCAD "
+    document: "\uC8FC\uC720\uC18C\uC5D0\uC11C \uD761\uC5F0\uD558\uB294 \uAC83\uC740
+      \uC704\uD5D8\uBB3C\uC548\uC804\uAD00\uB9AC\uBC95 \uC704\uBC18\uC0AC\uD56D\uC784\uC744
+      \uC548\uB0B4\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: e4fffdb31c9ab96438cd187fa890eb4d, type: 3}
+    checkDuplication: 0
+    id: 80
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC815\uC804\uAE30 \uBC1C\uC0DD "
+    document: "\uACE0\uAC1D\uC758 \uC637\uAC00\uC9C0 \uB4F1\uC5D0\uC11C \uC815\uC804\uAE30\uAC00
+      \uBC1C\uC0DD\uD558\uC600\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: e2b983447100eb14c8ddb84405fd43e2, type: 3}
+    checkDuplication: 0
+    id: 81
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC720\uC18C \uCC28\uB7C9 \uD654\uC7AC \uBC1C\uC0DD"
+    document: "\uC815\uC804\uAE30\uB85C \uC778\uD574 \uD654\uC7AC\uAC00 \uBC1C\uC0DD\uD558\uC600\uC2B5\uB2C8\uB2E4.
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB20C\uB7EC \uBE44\uC0C1\uB300\uC751 \uC870\uCE58\uB97C
+      \uC2DC\uD589\uD574\uC8FC\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 9c74b9ba91adfe54986954d38ab1034e, type: 3}
+    checkDuplication: 0
+    id: 82
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-1.  \uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)  "
+    document: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)\uB97C
+      \uC791\uB3D9\uD558\uC5EC \uC8FC\uC720\uC124\uBE44 \uC791\uB3D9\uC744 \uC815\uC9C0\uC2DC\uD0A4\uC138\uC694.\n"
+    audioClip: {fileID: 8300000, guid: 3c0418871a83eac498e10683f7b28705, type: 3}
+    checkDuplication: 0
+    id: 83
+    buttonNames:
+    - EmergencyStopCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-2.  119\uC2E0\uACE0 "
+    document: "119\uC5D0 \uC2E0\uACE0\uD558\uC5EC \uD654\uC7AC\uC0AC\uC2E4\uC744
+      \uD1B5\uBCF4\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 155a0b5b0e9eb974391e1b6d820dc409, type: 3}
+    checkDuplication: 0
+    id: 84
+    buttonNames:
+    - Call119
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-2.  119\uC2E0\uACE0 "
+    document: "\uC0AC\uACE0\uC0C1\uD669\uC744 119\uC5D0 \uC2E0\uACE0\uB97C \uC9C4\uD589\uD560
+      \uB54C \uC62C\uBC14\uB978 \uC2E0\uACE0\uC640 \uC633\uC9C0 \uC54A\uC740 \uC2E0\uACE0\uB97C
+      \uBD84\uB958\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: c3ae3686191e72a4a81b52efd82c1752, type: 3}
+    checkDuplication: 0
+    id: 85
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-3.  \uD53C\uB09C \uC720\uB3C4 "
+    document: "\uACE0\uAC1D\uC744 \uC548\uC804\uD558\uAC8C \uB300\uD53C\uC2DC\uD0A4\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 0234c7e73452cdc478773533339b750c, type: 3}
+    checkDuplication: 0
+    id: 86
+    buttonNames:
+    - Evacuate
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-3.  \uD53C\uB09C \uC720\uB3C4 "
+    document: "\uB300\uD53C\uB97C \uC9C4\uD589\uD560 \uB54C \uC62C\uBC14\uB978 \uB300\uD53C\uC640
+      \uC633\uC9C0 \uC54A\uC740 \uB300\uD53C\uBC29\uBC95\uC744 \uBD84\uB958\uD574
+      \uBCF4\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 45eff0449ead6d148a5b5ac522e762aa, type: 3}
+    checkDuplication: 0
+    id: 87
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-4.  \uC0C1\uD669 \uC804\uD30C"
+    document: "\uBC1C\uC2E0\uAE30\uB97C \uC791\uB3D9\uC2DC\uD0A4\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 9e5a1944570868046979e47f68abda60, type: 3}
+    checkDuplication: 0
+    id: 88
+    buttonNames:
+    - EmergencyAlarm
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-4.  \uC0C1\uD669 \uC804\uD30C"
+    document: "\uBC1C\uC2E0\uAE30\uB97C \uB3D9\uC791\uC2DC\uCF1C \uC704\uD5D8\uC0C1\uD669\uC744
+      \uC8FC\uBCC0\uC5D0 \uC804\uD30C\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: c5af59674ce1bc34195716bf19b5577f, type: 3}
+    checkDuplication: 0
+    id: 89
+    buttonNames:
+    - AlarmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-5.  \uCD08\uAE30 \uC18C\uD654"
+    document: "\uC18C\uD654\uAE30\uB97C \uC0AC\uC6A9\uD558\uC5EC \uD654\uC7AC \uC9C4\uC555\uC744
+      \uC2DC\uB3C4\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 2d7c40c16c6670d49b9ca45b72a83de1, type: 3}
+    checkDuplication: 0
+    id: 90
+    buttonNames:
+    - FireExtinguisher_2
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-5.  \uCD08\uAE30 \uC18C\uD654"
+    document: "\uC18C\uD654\uAE30\uB97C \uC62C\uBC14\uB978 \uC0AC\uC6A9\uBC29\uBC95\uC5D0
+      \uB530\uB77C \uB0B4\uC6A9\uC744 \uC774\uB3D9\uC2DC\uCF1C \uC0AC\uC6A9\uBC29\uBC95\uC744
+      \uC644\uC131\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\n"
+    audioClip: {fileID: 8300000, guid: 0226bf420c35ce242a5a12867461687d, type: 3}
+    checkDuplication: 0
+    id: 91
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-6.  \uD604\uC7A5 \uD1B5\uC81C"
+    document: "\uC8FC\uC720\uC18C \uC9C4\uC785\uB85C \uACBD\uACC4\uC5D0\uC11C \uBD80\uC9C0
+      \uC9C4\uC785\uC790\uB97C \uD1B5\uC81C\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 85b9b70be0df316418d145b08c1a70dc, type: 3}
+    checkDuplication: 0
+    id: 92
+    buttonNames:
+    - AccessControl
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-6.  \uD604\uC7A5 \uD1B5\uC81C"
+    document: "\uC8FC\uC720\uC18C \uC778\uADFC \uCC28\uB7C9\uC744 \uD1B5\uC81C\uD558\uC5EC
+      \uC18C\uBC29\uCC28 \uC9C4\uC785\uB85C\uB97C \uD655\uBCF4\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 5698853d7fb63a94aa7a27e75bd3fd6c, type: 3}
+    checkDuplication: 0
+    id: 93
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-7.  \uC0C1\uD669 \uC885\uB8CC "
+    document: "\uC18C\uBC29\uCC28\uAC00 \uB3C4\uCC29\uD558\uACE0 \uC0C1\uD669\uC774
+      \uC885\uB8CC\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB20C\uB7EC \uBE44\uC0C1\uB300\uC751(\uB204\uCD9C) \uB2E8\uACC4\uB97C \uC9C4\uD589\uD558\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: 300c341bec4f7784ab9101eece5cdc34, type: 3}
+    checkDuplication: 0
+    id: 94
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC774\uB3D9\uD0F1\uD06C\uCC28\uB7C9 \uC9C4\uC785 \uC548\uB0B4"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC774\uB3D9\uD0F1\uD06C\uC800\uC7A5\uC18C
+      \uCC28\uB7C9\uC774 \uC548\uC804\uD558\uAC8C \uC9C4\uC785\uD560 \uC218 \uC788\uB3C4\uB85D
+      \uAD00\uB9AC\uAC10\uB3C5\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: a7f2cef275868dc4da4cc7c5d52f9f26, type: 3}
+    checkDuplication: 0
+    id: 95
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC548\uC804\uC870\uCE58 \uAD00\uB9AC\uAC10\uB3C5"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC6B4\uC1A1\uC790\uAC00 \uC791\uC5C5
+      \uC804 \uC548\uC804\uC870\uCE58 \uD558\uB294 \uAC83\uC744 \uAD00\uB9AC\uAC10\uB3C5\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: 0f02bc76d2e5da54ca491c684416fb25, type: 3}
+    checkDuplication: 0
+    id: 96
+    buttonNames:
+    - OpenInventory
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uACE0\uC784\uBAA9 \uC124\uCE58"
+    document: "\uCC28\uB7C9\uC758 \uC55E \uB4A4 \uBC14\uD034\uC5D0 \uACE0\uC784\uBAA9\uC744
+      \uC124\uCE58\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 68dc698577b71f94db5b6dcaa67438c7, type: 3}
+    checkDuplication: 0
+    id: 97
+    buttonNames:
+    - ShoringTimber
+    - ShoringTimberItem
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uB77C\uBC14\uCF58(Rubber Cone) \uC124\uCE58 "
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC548\uC804\uD55C \uC791\uC5C5\uC744
+      \uC704\uD574 \uCC28\uB7C9 \uC8FC\uBCC0\uC5D0 \uB77C\uBC14\uCF58(Rubber Cone)\uC744
+      \uC124\uCE58\uD558\uACE0 \uC548\uC804\uAC70\uB9AC\uB97C \uD655\uBCF4\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 6d9328b1999a5d9429b96a9605e838e3, type: 3}
+    checkDuplication: 0
+    id: 98
+    buttonNames:
+    - TrafficCone
+    - TrafficConeItem
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC18C\uD654\uAE30 \uBE44\uCE58"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC548\uC804\uD55C \uC791\uC5C5\uC744
+      \uC704\uD574 \uC18C\uD654\uAE30\uB97C \uBE44\uCE58\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: 139d709d452184c419ab6a76a7100455, type: 3}
+    checkDuplication: 0
+    id: 99
+    buttonNames:
+    - FireExtinguisher2
+    - FireExtinguisherItem
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uCD9C\uD558\uC804\uD45C \uC804\uB2EC"
+    document: "\uC6B4\uC1A1\uC790\uB294 \uC548\uC804\uAD00\uB9AC\uC790\uC5D0\uAC8C
+      \uCD9C\uD558\uC804\uD45C\uB97C \uC804\uB2EC\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: ca92351e6c79f1d4788eb6f0b79979b9, type: 3}
+    checkDuplication: 0
+    id: 100
+    buttonNames:
+    - DeliveryNote
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uCD9C\uD558\uC804\uD45C \uC804\uB2EC"
+    document: "\uC6B4\uC1A1\uC790\uB294 \uCD9C\uD558\uC804\uD45C \uB0B4\uC6A9\uC744
+      \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: edcd18d8fa359c34e901c984e520d574, type: 3}
+    checkDuplication: 0
+    id: 101
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC7AC\uACE0 \uD604\uD669 \uD655\uC778"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC804\uB2EC\uBC1B\uC740 \uB0B4\uC6A9\uACFC
+      \uC7AC\uACE0\uC0C1\uD669\uC744 \uCCB4\uD06C\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: dd583f433ced68844b03e8e40b41858f, type: 3}
+    checkDuplication: 0
+    id: 102
+    buttonNames:
+    - InventoryCheck
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC7AC\uACE0 \uD604\uD669 \uD655\uC778"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uCD9C\uD558\uC804\uD45C \uB0B4\uC6A9\uACFC
+      \uC7AC\uACE0\uC0C1\uD669\uC744 \uCCB4\uD06C\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: 749fc04456afde24d8d09fdc202d011e, type: 3}
+    checkDuplication: 0
+    id: 103
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uB3C4\uC120 \uC5F0\uACB0"
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC6B4\uC1A1\uC790\uAC00 \uC811\uC9C0\uB3C4\uC120\uC744
+      \uC5F0\uACB0\uD558\uB294 \uAC83\uC744 \uAD00\uB9AC\xB7\uAC10\uB3C5\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: b8f690f481a052145a2c8350f0d12ec6, type: 3}
+    checkDuplication: 0
+    id: 104
+    buttonNames:
+    - GroundingWire
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC811\uC9C0\uB3C4\uC120 \uC5F0\uACB0"
+    document: "\uC6B4\uC1A1\uC790\uB294 \uC774\uB3D9\uD0F1\uD06C\uC800\uC7A5\uC18C\uC5D0\uC11C
+      \uC811\uC9C0\uB3C4\uC120\uC744 \uC804\uAC1C\uD558\uC5EC \uC8FC\uC785\uAD6C
+      \uC606 \uC811\uC9C0\uC804\uADF9\uC5D0 \uC5F0\uACB0\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 02ed137109e160e47b0655f8d4ca6bd7, type: 3}
+    checkDuplication: 0
+    id: 105
+    buttonNames:
+    - GroundingElectrode
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC8FC\uC785\uAD6C \uD53C\uD2B8 \uAC1C\uBC29"
+    document: "\uC8FC\uC785\uAD6C \uD53C\uD2B8\uB97C \uAC1C\uBC29\uD558\uC138\uC694. "
+    audioClip: {fileID: 8300000, guid: e3560ac1c5e00f748ab601ed52562357, type: 3}
+    checkDuplication: 0
+    id: 106
+    buttonNames:
+    - OpenBox
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uD638\uC2A4 \uCCB4\uACB0 "
+    document: "\uC548\uC804\uAD00\uB9AC\uC790\uB294 \uC6B4\uC1A1\uC790\uAC00 \uC774\uB3D9\uD0F1\uD06C\uCC28\uB7C9\uC758
+      \uC8FC\uC785\uD638\uC2A4\uC640 \uC8FC\uC785\uAD6C\uB97C \uCCB4\uACB0\uD558\uB294
+      \uAC83\uC744 \uAD00\uB9AC\uAC10\uB3C5\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 044ce25ee468ecb45a758ec16c52a755, type: 3}
+    checkDuplication: 0
+    id: 107
+    buttonNames:
+    - HoseConnection
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uD638\uC2A4 \uCCB4\uACB0 "
+    document: "\uC6B4\uC1A1\uC790\uB294 \uC774\uB3D9\uD0F1\uD06C\uCC28\uB7C9\uC758
+      \uC8FC\uC785\uD638\uC2A4\uC640 \uC8FC\uC785\uAD6C\uB97C \uACAC\uACE0\uD788
+      \uCCB4\uACB0\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: ef2a61f931ab7914fb76309619cd0ea6, type: 3}
+    checkDuplication: 0
+    id: 108
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uCCB4\uACB0\uD655\uC778"
+    document: "\uC6B4\uC1A1\uC790\uB294 \uC774\uB3D9\uD0F1\uD06C\uCC28\uB7C9\uC758
+      \uD1A0\uCD9C\uBC38\uBE0C\uC640 \uD638\uC2A4\uB97C \uACAC\uACE0\uD788 \uCCB4\uACB0\uB41C
+      \uAC83\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: b87ebe78d5032894394c9c242b924fc5, type: 3}
+    checkDuplication: 0
+    id: 109
+    buttonNames:
+    - CheckConnection
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uC704\uD5D8\uBB3C \uB204\uCD9C\uC0AC\uACE0 \uBC1C\uC0DD "
+    document: "\uD638\uC2A4 \uCCB4\uACB0 \uBD88\uB7C9\uC73C\uB85C \uC8FC\uC785\uAD6C
+      \uC778\uADFC \uC704\uD5D8\uBB3C \uB204\uCD9C \uC0AC\uACE0\uAC00 \uBC1C\uC0DD\uD558\uC600\uC2B5\uB2C8\uB2E4.
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB20C\uB7EC \uBE44\uC0C1\uB300\uC751 \uC870\uCE58\uB97C
+      \uC2DC\uD589\uD574\uC8FC\uC138\uC694. \n"
+    audioClip: {fileID: 8300000, guid: b865f249d13765e4c88997d30b179170, type: 3}
+    checkDuplication: 0
+    id: 110
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-1.  \uD3D0\uC1C4\uC7A5\uCE58 \uC791\uB3D9 "
+    document: "\uC6B4\uC1A1\uC790\uB294 \uCC28\uB7C9\uC5D0 \uC124\uCE58\uB41C \uD3D0\uC1C4\uC7A5\uCE58\uB97C
+      \uC791\uB3D9\uC2DC\uCF1C \uC704\uD5D8\uBB3C \uBC30\uCD9C\uC744 \uC911\uB2E8\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 2fd920591f1fc3c4a8ae9d099647f3a3, type: 3}
+    checkDuplication: 0
+    id: 111
+    buttonNames:
+    - EmergencyStopButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-1.  \uD3D0\uC1C4\uC7A5\uCE58 \uC791\uB3D9 "
+    document: "\uD3D0\uC1C4\uC7A5\uCE58 \uC791\uB3D9\uC744 \uD655\uC778\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: a68d21cac3b3fba4d8ef0ac1ce5b4dea, type: 3}
+    checkDuplication: 0
+    id: 112
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-2. 119\uC2E0\uACE0 "
+    document: "119\uC5D0 \uC2E0\uACE0\uD558\uC5EC \uB204\uCD9C\uC0AC\uC2E4\uC744
+      \uD1B5\uBCF4\uD558\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 61c4265c35b1b4a4c8ce06869d581bbd, type: 3}
+    checkDuplication: 0
+    id: 113
+    buttonNames:
+    - Call119Button
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-2. 119\uC2E0\uACE0 "
+    document: "\uC0AC\uACE0\uC0C1\uD669\uC744 119\uC5D0 \uC2E0\uACE0\uB97C \uC9C4\uD589\uD560
+      \uB54C \uC62C\uBC14\uB978 \uC2E0\uACE0\uC640 \uC633\uC9C0 \uC54A\uC740 \uC2E0\uACE0\uB97C
+      \uBD84\uB958\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 4f9c9d543d64a1d4a91dc59107a59e88, type: 3}
+    checkDuplication: 0
+    id: 114
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-3.  \uC704\uD5D8\uBB3C \uD655\uC0B0 \uBC29\uC9C0 "
+    document: "\uC801\uC808\uD55C \uD589\uB3D9\uC694\uB839\uC744 \uC120\uD0DD\uD558\uC5EC
+      \uC704\uD5D8\uBB3C \uD655\uC0B0\uC744 \uBC29\uC9C0\uD558\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: e7ed47cc44eed8d41985efc35fee75e7, type: 3}
+    checkDuplication: 0
+    id: 115
+    buttonNames:
+    - PreventionOfSpreadButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-3.  \uC704\uD5D8\uBB3C \uD655\uC0B0 \uBC29\uC9C0 "
+    document: "\uC704\uD5D8\uBB3C \uD655\uC0B0\uC744 \uBC29\uC9C0\uD558\uAE30 \uC704\uD55C
+      \uC801\uC808\uD55C \uD589\uB3D9\uC694\uB839\uC744 \uBAA8\uB450 \uC120\uD0DD\uD558\uC138\uC694."
+    audioClip: {fileID: 0}
+    checkDuplication: 0
+    id: 116
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-4.  \uCC28\uB7C9 \uCD9C\uCC28 \uC548\uB0B4 "
+    document: "\uC8FC\uC720\uC18C\uC5D0 \uC788\uB294 \uCC28\uB7C9\uB4E4\uC758 \uCD9C\uCC28\uB97C
+      \uC548\uB0B4\uD558\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: 9f72839d97823d64bb650151a677a712, type: 3}
+    checkDuplication: 0
+    id: 117
+    buttonNames:
+    - EmergencyDispatchButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-4.  \uCC28\uB7C9 \uCD9C\uCC28 \uC548\uB0B4 "
+    document: "\uC8FC\uC720\uC18C\uC5D0 \uC788\uB294 \uCC28\uB7C9\uB4E4\uC758 \uCD9C\uCC28\uB97C
+      \uC548\uB0B4\uD558\uACE0 \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: 4a34b69afccd8244a9f4846ce5aca559, type: 3}
+    checkDuplication: 0
+    id: 118
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-5.  \uD604\uC7A5 \uD1B5\uC81C "
+    document: "\uC8FC\uC720\uC18C \uC9C4\uC785\uB85C \uACBD\uACC4\uC5D0\uC11C \uD604\uC7A5\uC744
+      \uD1B5\uC81C\uD558\uC5EC \uC548\uC804\uC744 \uD655\uBCF4\uD558\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: d3367249c1ca389469c9b96a2d537c83, type: 3}
+    checkDuplication: 0
+    id: 119
+    buttonNames:
+    - TrafficControlButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-5.  \uD604\uC7A5 \uD1B5\uC81C "
+    document: "\uC8FC\uC720\uC18C \uC778\uADFC \uCC28\uB7C9\uC744 \uD1B5\uC81C\uD558\uC5EC
+      \uC18C\uBC29\uCC28 \uC9C4\uC785\uB85C\uB97C \uD655\uBCF4\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.\r\n"
+    audioClip: {fileID: 8300000, guid: 3790ee0ae5e7302429b0df6e638d456f, type: 3}
+    checkDuplication: 0
+    id: 120
+    buttonNames:
+    - ConfirmButton
+    removeButton: 0
+    isCheckListOn: 0
+  - title: "\uBE44\uC0C1\uB300\uC751-6.  \uC0C1\uD669 \uC885\uB8CC "
+    document: "\uC18C\uBC29\uCC28\uAC00 \uB3C4\uCC29\uD558\uACE0 \uC0C1\uD669\uC774
+      \uC885\uB8CC\uB418\uC5C8\uC2B5\uB2C8\uB2E4. \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694.\r"
+    audioClip: {fileID: 8300000, guid: f662d9b9bbf6d1647a111a9db620b8c0, type: 3}
+    checkDuplication: 0
+    id: 121
+    buttonNames: []
+    removeButton: 0
+    isCheckListOn: 0

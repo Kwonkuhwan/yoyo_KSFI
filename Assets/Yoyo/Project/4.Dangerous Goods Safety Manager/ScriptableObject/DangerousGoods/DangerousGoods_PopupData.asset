@@ -1,0 +1,509 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef1a0498a019b8499afd05a8f8a1917, type: 3}
+  m_Name: DangerousGoods_PopupData
+  m_EditorClassIdentifier: 
+  popups:
+  - titile: "\uC8FC\uC720\uACF5\uC9C0 \uB108\uBE44, \uAE38\uC774"
+    description: "\uC904\uC790 \uB610\uB294 \uB808\uC774\uC800 \uAC70\uB9AC\uCE21\uC815\uAE30
+      \uB4F1\uC744 \uD65C\uC6A9\uD574 \uC8FC\uC720\uACF5\uC9C0\uAC00 <b><color=#000000>\uB108\uBE44
+      15m, \uAE38\uC774 6m</color></b> \uC774\uC0C1\uC778\uC9C0 \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 52397933085233c4cb4114cdb7f03e51, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 1616cb7943e2c9e4e9c537a7f913134a, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 0
+  - titile: "\uC7A5\uC560\uBB3C \uD655\uC778"
+    description: "\uC8FC\uC720\uACF5\uC9C0 \uBC0F \uAE09\uC720\uACF5\uC9C0 \uB0B4\uC5D0
+      <b><color=#000000>\uC7A5\uC560\uBB3C</color></b>\uC774 \uC5C6\uB294\uC9C0 \uC721\uC548\uC73C\uB85C
+      \uD655\uC778\uD569\uB2C8\uB2E4.\n\n\u203B \uC7A5\uC560\uBB3C \uC720\uBB34\n    
+      1) \uC644\uACF5 \uD5C8\uAC00 \uB2F9\uC2DC \uC124\uACC4\uB3C4\uBA74\uACFC \uC124\uCE58\uB41C
+      \uC2DC\uC124\uBB3C\uC744 \uBE44\uAD50\uD558\uC5EC \uBCC0\uACBD \uC5EC\uBD80\uB97C
+      \uD655\uC778\n     2) \uC8FC\uC720\uCDE8\uAE09\uC18C \uACF5\uC9C0 \uB0B4\uC758
+      \uC7A5\uC560\uBB3C \uB4F1\uC758 \uAC74\uCD95\uBB3C\uC774\uB098 \uC874\uCE58\uB41C
+      \uBB3C\uAC74\uC774 \uC5C6\uB294\uC9C0 \uD655\uC778\n     3) \uC8FC\uC720\uCDE8\uAE09\uC18C
+      \uACF5\uC9C0 \uB0B4\uC758 \uC7A5\uC560\uBB3C \uB4F1\uC774 \uC5C6\uB3C4\uB85D
+      \uC870\uCE58"
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: e9edb8d36f00e74498b8f5ad5b034548, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 1
+  - titile: "\uBC30\uC218\uAD6C"
+    description: "1. \uBC30\uC218\uAD6C\uC758 <b><color=#000000>\uADE0\uC5F4, \uC190\uC0C1</color></b>
+      \uC720\uBB34\uB97C \uD655\uC778\uD569\uB2C8\uB2E4.\n2. \uBC30\uC218\uAD6C\uC758
+      <b><color=#000000>\uCCB4\uC720, \uCCB4\uC218, \uD1A0\uC0AC\uD1F4\uC801</color></b>
+      \uC5EC\uBD80\uB97C \uD655\uC778\uD569\uB2C8\uB2E4.\n\n\u203B \uBC30\uC218\uAD6C
+      \uC124\uCE58 \uC8FC\uC758\uC0AC\uD56D\r\n1) \uD3C9\uC9C0 \uB610\uB294 \uAC74\uCD95\uBB3C
+      \uB4F1\uC774 \uC5C6\uB294 \uCE21\uC5D0\uB294 \uC804\uBD80 \uC124\uCE58\uD558\uC5EC
+      \uAE30\uB984\uC774\uB098 \uC138\uC815\uC218 \uB4F1\uC774 \uC8FC\uC720\uACF5\uC9C0
+      \uC774\uC678\uB85C \uC720\uCD9C\uB418\uC9C0 \n     \uC54A\uB3C4\uB85D \uD55C\uB2E4.\r\n2)
+      \uD1A0\uC0AC \uB4F1\uC758 \uCCAD\uC18C\uAC00 \uAC00\uB2A5\uD55C \uD06C\uAE30\uB85C
+      \uD55C\uB2E4.\r\n3) \uCC28\uB7C9 \uB4F1\uC758 \uCD9C\uC785\uCE21\uC5D0\uB294
+      \uD30C\uC190\uC704\uD5D8\uC131\uC774 \uB192\uC73C\uBBC0\uB85C \uAC00\uC7A5\uC790\uB9AC\uB97C
+      \uBCF4\uAC15\uD558\uC5EC \uB458 \uAC83\uC744 \uAD8C\uC7A5\uD55C\uB2E4.\r\n"
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 69b52528b4466fa499fc183482c77c7c, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 2
+  - titile: "\uC720\uBD84\uB9AC\uC7A5\uCE58"
+    description: "1. \uC720\uBD84\uB9AC\uC7A5\uCE58\uC758 <b><color=#000000>\uADE0\uC5F4,
+      \uC190\uC0C1</color></b> \uC720\uBB34\uB97C \uD655\uC778\uD569\uB2C8\uB2E4.\n2.
+      \uC720\uBD84\uB9AC\uC7A5\uCE58\uC758 <b><color=#000000>\uCCB4\uC720, \uCCB4\uC218,
+      \uD1A0\uC0AC\uD1F4\uC801</color></b> \uC5EC\uBD80\uB97C \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: fcde4f2883852fe44827eace46452a4c, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 3
+  - titile: "\uBC29\uD654\uB2F4 \uADE0\uC5F4\xB7\uC190\uC0C1\xB7\uACBD\uC0AC \uB4F1 "
+    description: "\uBC29\uD654\uB2F4\uC758 <b><color=#000000>\uADE0\uC5F4\xB7\uC190\uC0C1\xB7\uACBD\uC0AC</color></b>\uB4F1\uC758
+      \uC720\uBB34\uB97C \uC721\uC548\uC73C\uB85C \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 8a4ac4ca94776f7428201ce7f4edfe25, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 4
+  - titile: "\uBC29\uD654\uB2F4 \uB192\uC774 \uBC0F \uC774\uACA9\uAC70\uB9AC "
+    description: "\uBC29\uD654\uB2F4 <b><color=#000000>\uB192\uC774 2m \uC774\uC0C1</color></b>\uC758
+      \uB0B4\uD654\uAD6C\uC870 \uB610\uB294 \uBD88\uC5F0\uC7AC\uB8CC\uC758 \uB2F4
+      \uB610\uB294 \uBCBD\uC744 \uC124\uCE58\uD558\uACE0 \uACE0\uC815\uC8FC\uC720\uC124\uBE44\uB85C
+      \uBD80\uD130 <b><color=#000000>2m \uC774\uC0C1 \uC774\uACA9</color></b>(\uC720\uB9AC\uB97C
+      \uBD80\uCC29\uD558\uB294 \uACBD\uC6B0 4m \uC774\uC0C1 \uC774\uACA9)\uC744 \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: c5f971f5e6956f54ca4737081c2f4533, type: 3}
+    exampleTwo: {fileID: 21300000, guid: dbb70cc956761cc438d027486cceb405, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 5
+  - titile: "\uC8FC\uC785\uAD6C\uC758 \uD53C\uD2B8"
+    description: "\uC8FC\uC785\uAD6C \uD53C\uD2B8\uB294 \uC8FC\uC785\uAD6C\uB97C
+      \uC678\uBD80\uC758 \uCDA9\uACA9 \uB4F1\uC73C\uB85C\uBD80\uD130 \uBCF4\uD638\uD558\uACE0
+      \uC704\uD5D8\uBB3C\uC774 \uB204\uCD9C\uB418\uB294 \uAC83\uC744 \uB9C9\uAE30
+      \uC704\uD55C \uC8FC\uC785\uAD6C \uC8FC\uBCC0\uC758 \uD568\uC744 \uC758\uBBF8\uD558\uBA70
+      \uC8FC\uC785\uAD6C \uD53C\uD2B8 \uB0B4\uBD80\uC5D0 <b><color=#000000>\uCCB4\uC720,
+      \uCCB4\uC218, \uD1A0\uC0AC \uB4F1\uC758 \uD1F4\uC801</color></b>\uC774 \uC788\uB294
+      \uACBD\uC6B0 \uC81C\uAC70\uD569\uB2C8\uB2E4.\r\n"
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: deaf5728a83997d41add3f220a385284, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 6
+  - titile: "\uC8FC\uC785\uAD6C"
+    description: "\uC811\uC9C0\uC120\uC5D0 <b><color=#000000>\uB2E8\uC120</color></b>\uC740
+      \uC5C6\uB294\uC9C0 <b><color=#000000>\uC811\uC9C0\uC804\uADF9</color></b>\uC5D0
+      \uC190\uC0C1\uC774 \uC5C6\uB294\uC9C0 \uC721\uC548\uC73C\uB85C \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 28cde3408192740459694978100c7b18, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 4c8c4b066fa997246a3d348f9ba666f7, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 7
+  - titile: "\uAC10\uC2DC\uB300"
+    description: "\uAC10\uC2DC\uB300\uB294 \uBAA8\uB4E0 \uC140\uD504\uC6A9\uACE0\uC815\uC8FC\uC720\uC124\uBE44
+      \uB610\uB294 \uC140\uD504\uC6A9\uACE0\uC815\uAE09\uC720\uC124\uBE44\uC5D0\uC11C\uC758
+      \uACE0\uAC1D\uC758 \uCDE8\uAE09\uC791\uC5C5\uC744 <b><color=#000000>\uC9C1\uC811</color></b>
+      \uBCFC \uC218 \uC788\uB294\uC9C0 \uC721\uC548\uC73C\uB85C \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 80d175c387c61b94196578297c844ec4, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 8
+  - titile: "\uAC10\uC2DC\uC124\uBE44"
+    description: "\uC8FC\uC720 \uC911\uC778 \uC790\uB3D9\uCC28 \uB4F1\uC5D0 \uC758\uD558\uC5EC
+      \uACE0\uAC1D\uC758 \uCDE8\uAE09\uC791\uC5C5\uC744 \uBCFC \uC218 \uC5C6\uB294
+      \uBD80\uBD84\uC774 \uC788\uB294 \uACBD\uC6B0\uC5D0\uB294 \uB2F9\uD574 \uBD80\uBD84\uC758
+      <b><color=#000000>\uAC10\uC2DC\uB97C \uC704\uD55C \uCE74\uBA54\uB77C</color></b>\uB97C
+      \uC124\uCE58\uD558\uACE0 \uC815\uC0C1\uC791\uB3D9 \uC5EC\uBD80\uC5D0 \uB300\uD558\uC5EC
+      \uD655\uC778\uD569\uB2C8\uB2E4."
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 5fad825c0fadecc42a8e8b65e7620e47, type: 3}
+    exampleTwo: {fileID: 21300000, guid: b82af4ac9fd271345a5508c57ef440dd, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 9
+  - titile: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58) "
+    description: "\uAC10\uC2DC\uB300\uC5D0\uB294 \uBAA8\uB4E0 \uC140\uD504\uC6A9\uACE0\uC815\uC8FC\uC720\uC124\uBE44
+      \uB610\uB294 \uC140\uD504\uC6A9\uACE0\uC815\uAE09\uC720\uC124\uBE44\uB85C\uC758
+      \uC704\uD5D8\uBB3C \uACF5\uAE09\uC744 \uC815\uC9C0\uC2DC\uD0AC \uC218 \uC788\uB294
+      <b><color=#000000>\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)\r</color></b>\uB97C
+      \uC124\uCE58\uD588\uB294\uC9C0 \uD655\uC778\uD558\uACE0 \uC815\uC0C1\uC791\uB3D9
+      \uC5EC\uBD80\uC5D0 \uB300\uD558\uC5EC \uD655\uC778\uD569\uB2C8\uB2E4.\r"
+    isSingleExample: 0
+    isbackGroundChange: 1
+    backGroundNumber: 11
+    exampleOne: {fileID: 21300000, guid: bcd0153138e103b4882856761896933c, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 31ed1f1abe0b24047bcb102faa8363a3, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 10
+  - titile: "\uBC29\uC1A1\uAE30\uAE30"
+    description: "\uAC10\uC2DC\uB300\uC5D0\uB294 \uACE0\uAC1D\uC5D0\uAC8C \uD544\uC694\uD55C
+      \uC9C0\uC2DC\uB97C \uD560 \uC218 \uC788\uB294 <b><color=#000000>\uBC29\uC1A1\uC124\uBE44</color></b>\uB97C
+      \uC124\uCE58\uD558\uACE0 \uC815\uC0C1\uC791\uB3D9 \uC5EC\uBD80\uC5D0 \uB300\uD558\uC5EC
+      \uD655\uC778\uD569\uB2C8\uB2E4.\r"
+    isSingleExample: 0
+    isbackGroundChange: 1
+    backGroundNumber: 11
+    exampleOne: {fileID: 21300000, guid: 012dcf3f80f0a0e40b90fd6b6548d285, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 5d7526868d7464d48ac560ed04eab6d5, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 11
+  - titile: "\uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44"
+    description: "\uACE0\uC815\uC8FC\uC720\uC124\uBE44 \uBC0F \uACE0\uC815\uAE09\uC720\uC124\uBE44\uC758
+      \uD568\uC744 \uC5F4\uC5B4 \uC815\uC804\uAE30 \uC81C\uAC70\uC124\uBE44\uC5D0
+      \uC5F0\uACB0\uB41C \uC811\uC9C0\uC120\uC758 \uB2E8\uC120 \uB4F1 \uC190\uC0C1\uC720\uBB34\uB97C
+      \uC721\uC548\uC73C\uB85C \uD655\uC778\uD569\uB2C8\uB2E4. \r"
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: f5b2fa1e7cdf0804a91f19119b460a78, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 59899cafae03e754ebe1324593b5a327, type: 3}
+    exampleThree: {fileID: 21300000, guid: 570d905e99c849844b686bdd656eb4bf, type: 3}
+    popupBgnumber: 0
+    index: 12
+  - titile: "\uC811\uC9C0\uC800\uD56D \uCE21\uC815"
+    description: "<size=29>\uC8FC\uC720\uAE30 \uBC0F \uD38C\uD504 \uB4F1\uC758 \uC811\uC9C0\uB294
+      \uC811\uC9C0\uC800\uD56D\uCE21\uC815\uAE30\uB97C \uC774\uC6A9\uD558\uC5EC \uCE21\uC815\uAC12\uC774
+      <b><color=#000000>100\u03A9\uC774\uD558</color></b> \uB610\uB294 <b><color=#000000>\uB2E8\uC120
+      \uC720\uBB34</color></b>\uB97C \uD655\uC778\uD55C\uB2E4.\r</size>\n\n<size=27><b><color=black>\u203B
+      \uCC38\uACE0\uC0AC\uD56D</color></b>\n1) \uC804\uAE30\uC124\uBE44\uAE30\uC220\uAE30\uC900\uC758
+      \uD310\uB2E8\uAE30\uC900\uC740 \uD3D0\uC9C0\uB418\uC5C8\uC73C\uB098 2022.1.1\uC804\uAE4C\uC9C0
+      \uC804\uAE30\uC124\uBE44\uAE30\uC900\uC758 \uD310\uB2E8\uAE30\uC900\uC744 \uCDA9\uC871\uD558\uC5EC
+      \n     \uC124\uCE58\uB41C \uC811\uC9C0\uC124\uBE44\uC758 \uACBD\uC6B0 \uC801\uD569\uD55C
+      \uAC83\uC73C\uB85C \uD310\uB2E8\uD55C\uB2E4.\n2) \uC704\uD5D8\uBB3C\uC548\uC804\uAD00\uB9AC\uBC95\uC5D0
+      \uB530\uB978 \uC811\uC9C0\uC800\uD56D \uCE21\uC815 \uB300\uC0C1\uC740 \uD06C\uAC8C
+      \uD53C\uB8B0\uC124\uBE44, \uC804\uAE30\uC124\uBE44, \uC704\uD5D8\uBB3C \uCDE8\uAE09\uC124\uBE44
+      \uBC0F \n     \uC561\uCCB4\uC704\uD5D8\uBB3C\uC758 \uC625\uC678\uC800\uC7A5\uD0F1\uD06C
+      \uC8FC\uC785\uAD6C \uBD80\uADFC \uB4F1\uC73C\uB85C \uAD6C\uBD84\uD560 \uC218
+      \uC788\uC73C\uBA70, \uC900\uD2B9\uC815\xB7\uD2B9\uC815\uC625\uC678\uD0F1\uD06C\uC800\uC7A5\uC18C\uB97C
+      \n     \uC81C\uC678\uD558\uACE0\uB294 \uC811\uC9C0\uC800\uD56D \uAC12\uC758
+      \uAE30\uC900\uC774 \uC5C6\uB2E4.</size>"
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 9af86275fb69a0b469b0c660a1c21d15, type: 3}
+    exampleTwo: {fileID: 21300000, guid: b0ff6da9a7a59174c85951f9f714ccc7, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 13
+  - titile: "\uD45C\uC9C0 \uBC0F \uAC8C\uC2DC\uD310"
+    description: "1. <b><color=#000000>\u201C\uC704\uD5D8\uBB3C \uC8FC\uC720\uCDE8\uAE09\uC18C\"</color></b>
+      \uD45C\uC9C0 \uC124\uCE58\r\n2. \uBC29\uD654\uC5D0 \uAD00\uD558\uC5EC \uD544\uC694\uD55C
+      \uC0AC\uD56D \uAC8C\uC2DC\uD55C \uAC8C\uC2DC\uD310 \uC124\uCE58\r\n    - \uC800\uC7A5
+      \uB610\uB294 \uCDE8\uAE09\uD558\uB294 <b><color=#000000>\uC704\uD5D8\uBB3C\uC758
+      \uC720\uBCC4\xB7\uD488\uBA85</color></b> \uBC0F <b><color=#000000>\uC800\uC7A5\uCD5C\uB300\uC218\uB7C9</color></b>
+      \uB610\uB294 <b><color=#000000>\uCDE8\uAE09\uCD5C\uB300\uC218\uB7C9</color></b>,
+      <b><color=#000000>\uC9C0\uC815\uC218\uB7C9\uC758 \n     \uBC30\uC218</color></b>
+      \uBC0F <b><color=#02060F>\uC548\uC804\uAD00\uB9AC\uC790\uC758 \uC131\uBA85</color></b>
+      \uB610\uB294 <b><color=#02060F>\uC9C1\uBA85</color></b> \uAE30\uC7AC\n3. <b><color=#02060F>\u201C\uD654\uAE30\uC5C4\uAE08\u201D</color></b>
+      \uAC8C\uC2DC\uD310 \uC124\uCE58\r\n4. <b><color=#02060F>\u201C\uC8FC\uC720\uC911\uC5D4\uC9C4\uC815\uC9C0\u201C</color></b>
+      \uAC8C\uC2DC\uD310\r\n5. \uD574\uB2F9 \uC8FC\uC720\uCDE8\uAE09\uC18C\uAC00
+      <b><color=#02060F>\uAE08\uC5F0\uAD6C\uC5ED</color></b>\uC784\uC744 \uC54C\uB9AC\uB294
+      \uD45C\uC9C0 \uC124\uCE58\r"
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: cf900c51179becb49b8734cec891ff2c, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 58adddb334459a54d9bdaafb7b7bcb9a, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 14
+  - titile: "\uC18C\uD654\uAE30 \uC810\uAC80"
+    description: "<b><color=#000000>\uC124\uCE58 \uC704\uCE58</color></b> \uBC0F
+      <b><color=#000000>\uAC1C\uC218</color></b>\uB97C \uD655\uC778\uD558\uACE0 <b><color=#000000>\uC555\uB825
+      \uBC0F \uB0B4\uC6A9\uC5F0\uC218\uB97C</color></b> \uD655\uC778\uD569\uB2C8\uB2E4.\n\n1)
+      \uBC30\uCE58\uB3C4 \uB4F1\uC5D0 \uB530\uB77C \uC18C\uD654\uAE30\uC758 \uC124\uCE58
+      \uC704\uCE58 \uBC0F \uC218\uB7C9 \uD655\uC778\n2) \uC9C1\uC0AC\uAD11\uC120\uC774\uB098
+      \uBE57\uBB3C\uC5D0 \uB178\uCD9C\uB418\uB294 \uC7A5\uC18C\uC5D0 \uBC30\uCE58\uB418\uC5B4
+      \uC788\uB294\uC9C0 \uC721\uC548\uC73C\uB85C \uD655\uC778\n3) \uBD84\uB9D0\uC18C\uD654\uAE30\uC758
+      \uC815\uC0C1 \uC555\uB825\uBC94\uC704 \uD655\uC778<b><color=#000000>(0.7~0.98MPa
+      : \uB179\uC0C9\uBC94\uC704)</color></b>\n4) \uBD84\uB9D0\uC18C\uD654\uAE30
+      \uB0B4\uC6A9\uC5F0\uC218 : <b><color=#000000>10\uB144</color></b>"
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: b1639b61838c85b409fcab9caa8e3e9b, type: 3}
+    exampleTwo: {fileID: 21300000, guid: 76ea8dd8cf5a0a64c911906d54c18ad9, type: 3}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 15
+  - titile: "\uB2C8\uD2B8\uB958 \uC637\uC744 \uC785\uC740 \uBAA8\uC2B5"
+    description: 
+    isSingleExample: 0
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 0}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 16
+  - titile: "\uC815\uC804\uAE30 \uBC29\uC9C0\uD328\uB4DC"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: a509e2e24d9433a44b21e4bfe0a3d77b, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 2
+    index: 17
+  - titile: "\uBE44\uB2D0\uC7A5\uAC11"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 016cc74c260c03445ba35770701168b9, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 2
+    index: 18
+  - titile: "CCTV \uB2F4\uBC30 \uD655\uC778"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: e5315ee0b24127140b770e98b2938285, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 1
+    index: 19
+  - titile: "\uC815\uC804\uAE30 \uBC1C\uC0DD"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 7e8b5296d20509147b51a73dced01c35, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 2
+    index: 20
+  - titile: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58) 
+      \uC791\uB3D9"
+    description: "\uC81C\uC5B4\uC7A5\uCE58(\uBE44\uC0C1\uC815\uC9C0\uC2A4\uC704\uCE58)\r\uB97C
+      \uC791\uB3D9\uD558\uC5EC \uC8FC\uC720\uC124\uBE44 \uC791\uB3D9\uC744 \uC815\uC9C0\uC2DC\uD0B5\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: e12d6a3ea7ba72d42b7c62d6720bedd4, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 21
+  - titile: "119 \uD654\uC7AC \uC0AC\uC2E4 \uD1B5\uBCF4"
+    description: "119 \uC2E0\uACE0\uD558\uC5EC \uD654\uC7AC\uC0AC\uC2E4\uC744 \uD1B5\uBCF4\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 9bd54e9599965694796fb5e4fe964fb4, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 22
+  - titile: "\uD53C\uB09C \uC720\uB3C4"
+    description: "\uC190\uB2D8\uB4E4\uC744 \uB300\uD53C\uC2DC\uD0A4\uBA74\uC11C \uC8FC\uC720\uAE30\uB97C
+      \uBF51\uC9C0 \uC54A\uB3C4\uB85D \uC54C\uB9BD\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: fe93345357439504e9f6b7182a0679d4, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 23
+  - titile: "\uC18C\uD654\uAE30\uB85C \uD654\uC7AC \uC9C4\uC555"
+    description: "\uC18C\uD654\uAE30\uB97C \uC774\uC6A9\uD558\uC5EC \uD654\uC7AC
+      \uC9C4\uC555\uC744 \uC2DC\uB3C4\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 131bdc6468381bd4aaeb93293fab2397, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 24
+  - titile: "\uBE44\uC0C1\uACBD\uBCF4\uC124\uBE44 \uBC1C\uC2E0\uAE30 \uC791\uB3D9"
+    description: "\uBE44\uC0C1\uACBD\uBCF4\uC124\uBE44 \uBC1C\uC2E0\uAE30\uB97C \uC791\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 0}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 1
+    index: 25
+  - titile: "\uD604\uC7A5 \uD1B5\uC81C"
+    description: "\uC8FC\uC720\uC18C \uC9C4\uC785\uB85C \uACBD\uACC4\uC5D0\uC11C
+      \uCC28\uB7C9 \uD1B5\uC81C\uB97C \uC2E4\uC2DC\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 4345ee25dec3f66499a2ee27fb94a7d0, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 26
+  - titile: "\uC2DC\uB3D9\uC815\uC9C0"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 6781958d398526c4ea3c32bfe11a8694, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 1
+    index: 27
+  - titile: "\uCD9C\uD558\uC804\uD45C"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 429cb468049a05c499764a12c5b0233b, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 4
+    index: 28
+  - titile: "\uCD9C\uD558\uC804\uD45C"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 429cb468049a05c499764a12c5b0233b, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 4
+    index: 29
+  - titile: "\uC7AC\uACE0 \uD604\uD669"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 1
+    exampleOne: {fileID: 21300000, guid: b50106815f5e48846b01d492117c922f, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 3
+    index: 30
+  - titile: "\uCCB4\uACB0\uD655\uC778"
+    description: 
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 0
+    exampleOne: {fileID: 21300000, guid: 07351c8f3889c5541921b5e225bd6ab6, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 4
+    index: 31
+  - titile: "\uD3D0\uC1C4\uC7A5\uCE58 \uC791\uB3D9 "
+    description: "\uD3D0\uC1C4\uC7A5\uCE58\uB97C \uC791\uB3D9\uD558\uC5EC \uC704\uD5D8\uBB3C
+      \uBC30\uCD9C\uC744 \uC815\uC9C0\uC2DC\uD0B5\uB2C8\uB2E4.\r"
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: 0baeb7d444bea8c4fa5b502cd3c7ca63, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 32
+  - titile: "119 \uC720\uCD9C \uC0AC\uC2E4 \uD1B5\uBCF4"
+    description: "119\uC5D0 \uC2E0\uACE0\uD558\uC5EC \uC720\uCD9C \uC0AC\uC2E4\uC744
+      \uD1B5\uBCF4\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: f9eea1c0c55ef35408860e1be52e6a96, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 33
+  - titile: "\uC800\uC9C0\uC120 \uD655\uBCF4"
+    description: "\uBAA8\uB798\uC8FC\uBA38\uB2C8\uC640 \uD761\uCC29\uD3EC\uB97C \uC774\uC6A9\uD558\uC5EC
+      \uC720\uCD9C \uD655\uC0B0\uC744 \uBC29\uC9C0\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: d9923babb0ba9d241ade4c8cbc6940d7, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 34
+  - titile: "\uCC28\uB7C9 \uCD9C\uCC28 \uC548\uB0B4"
+    description: "\uC8FC\uC720\uC18C \uBD80\uC9C0 \uB0B4 \uCC28\uB7C9\uB4E4\uC744
+      \uAE34\uAE09 \uCD9C\uCC28\uD558\uB3C4\uB85D \uC548\uB0B4\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: f21dd72e3871b3d4fabd6543d6fb9344, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 35
+  - titile: "\uD604\uC7A5 \uD1B5\uC81C"
+    description: "\uC8FC\uC720\uC18C \uC9C4\uC785\uB85C \uACBD\uACC4\uC5D0\uC11C
+      \uCC28\uB7C9 \uD1B5\uC81C\uB97C \uC2E4\uC2DC\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: 4345ee25dec3f66499a2ee27fb94a7d0, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 36
+  - titile: "\uC811\uC9C0\uB2E8\uC790\uD568"
+    description: "\uC811\uC9C0\uB3C4\uC120\uC744 \uC811\uC9C0\uC804\uADF9\uC5D0 \uC5F0\uACB0\uD558\uC600\uC2B5\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: 7a590012623b29744b958457599607e3, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 37
+  - titile: "\uD604\uC7A5 \uD1B5\uC81C"
+    description: "\uC8FC\uC720\uC18C \uC9C4\uC785\uB85C \uACBD\uACC4\uC5D0\uC11C
+      \uCC28\uB7C9 \uD1B5\uC81C\uB97C \uC2E4\uC2DC\uD569\uB2C8\uB2E4."
+    isSingleExample: 1
+    isbackGroundChange: 0
+    backGroundNumber: 2
+    exampleOne: {fileID: 21300000, guid: 4345ee25dec3f66499a2ee27fb94a7d0, type: 3}
+    exampleTwo: {fileID: 0}
+    exampleThree: {fileID: 0}
+    popupBgnumber: 0
+    index: 38

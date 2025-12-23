@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 280198b86e48cc044b5f3d30aae76961, type: 3}
+  m_Name: "DischargeIndicatorLightTest(\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80
+    \uD655\uC778 \uD3C9\uAC00)PopupInfo"
+  m_EditorClassIdentifier: 
+  hintData:
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC791\uB3D9\uC2DC\uD5D8\uC744 \uC2E4\uC2DC\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 1fdedf1fa26a1da45906cecd79de3da9, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC791\uB3D9\uC2DC\uD5D8\uC744 \uC2E4\uC2DC\uD558\uACE0
+      \uB2E4\uC74C \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 0}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC815\uC0C1\uC791\uB3D9\uC5EC\uBD80\uB97C \uD655\uC778\uD558\uACE0 \uBD88\uB7C9
+      \uBD80\uBD84\uC5D0 \uCCB4\uD06C\uD55C \uD6C4 \uB2E4\uC74C \uBC84\uD2BC\uC744
+      \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: 4f0dfde8330484145a8e1f0eddaef274, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58\uB97C \uBCF5\uAD6C\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694."
+    audioClip: {fileID: 8300000, guid: b8368120116954344a1e26a1eef25ec9, type: 3}
+  - title: "\uBC29\uCD9C\uD45C\uC2DC\uB4F1 \uC810\uAC80"
+    text: "\uC555\uB825\uC2A4\uC704\uCE58\uB97C \uBCF5\uAD6C\uD558\uACE0 \uB2E4\uC74C
+      \uBC84\uD2BC\uC744 \uB204\uB974\uC138\uC694.  <color=black><b>(\uC644\uB8CC)</b></color>"
+    audioClip: {fileID: 0}

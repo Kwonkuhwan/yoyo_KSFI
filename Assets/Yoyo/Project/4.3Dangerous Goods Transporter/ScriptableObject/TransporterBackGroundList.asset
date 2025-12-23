@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88736e159c630e44ab827b5fb47f96f2, type: 3}
+  m_Name: TransporterBackGroundList
+  m_EditorClassIdentifier: 
+  textSprites:
+  - title: "\uAE30\uBCF8 \uBC30\uACBD"
+    sprite: {fileID: 21300000, guid: 1e6ca81fbb100c14fbaf7426e025d36d, type: 3}
+    subSprite: {fileID: 0}
+    index: 0
+  - title: "\uC0AC\uBB34\uC2E4 \uB0B4\uBD80"
+    sprite: {fileID: 21300000, guid: 9ed46b222a583614997bd9234006c80f, type: 3}
+    subSprite: {fileID: 0}
+    index: 1
+  - title: "\uD2B8\uB7ED \uB0B4\uBD80"
+    sprite: {fileID: 21300000, guid: 85aada5030ceff849850df004f9651ac, type: 3}
+    subSprite: {fileID: 0}
+    index: 2
+  - title: "\uD2B8\uB7ED\uB0B4\uBD80, \uC625\uB0B4 \uC800\uC7A5\uC18C \uC815\uBA74"
+    sprite: {fileID: 21300000, guid: 85aada5030ceff849850df004f9651ac, type: 3}
+    subSprite: {fileID: 21300000, guid: f383ff3fc78755449858600f2eff2cde, type: 3}
+    index: 3
+  - title: "\uC625\uB0B4 \uC800\uC7A5\uC18C "
+    sprite: {fileID: 21300000, guid: e8659600717b07748b58f0b779ef63ee, type: 3}
+    subSprite: {fileID: 0}
+    index: 4
+  - title: "\uC9C0\uAC8C\uCC28 \uB4F1\uC7A5"
+    sprite: {fileID: 21300000, guid: 3f9e8112cfeed7e44925f0131b9db3bc, type: 3}
+    subSprite: {fileID: 0}
+    index: 5
+  - title: "\uC9C0\uAC8C\uCC28 \uC6A9\uAE30 \uC6B4\uBC18"
+    sprite: {fileID: 21300000, guid: f383ff3fc78755449858600f2eff2cde, type: 3}
+    subSprite: {fileID: 0}
+    index: 6
+  - title: "\uD2B8\uB7ED \uC548\uC804\uC810\uAC80"
+    sprite: {fileID: 21300000, guid: 92500aba08a64f246ae0cea5a12d93b6, type: 3}
+    subSprite: {fileID: 0}
+    index: 7
+  - title: "\uD734\uB300\uD488 \uC810\uAC80"
+    sprite: {fileID: 21300000, guid: cb11bb696a1dd00419b2f5a9cb8a9aa9, type: 3}
+    subSprite: {fileID: 0}
+    index: 8
+  - title: "\uBE44\uC0C1\uC0C1\uD669 \uBC1C\uC0DD"
+    sprite: {fileID: 21300000, guid: 777c892357c29b842abd6d5a73e5f7d9, type: 3}
+    subSprite: {fileID: 0}
+    index: 9
+  - title: "\uBE44\uC0C1\uB300\uC751"
+    sprite: {fileID: 21300000, guid: 2c0ecb58f7e8ae54b8c5ebc1e8e0cabe, type: 3}
+    subSprite: {fileID: 0}
+    index: 10
+  - title: "\uBE44\uC0C1\uB300\uC751_\uC0C1\uD669\uC885\uB8CC"
+    sprite: {fileID: 21300000, guid: abe75c27253151e448df8be7fcff5cba, type: 3}
+    subSprite: {fileID: 0}
+    index: 11
+  - title: "\uBE57\uAE38\uC6B4\uD589"
+    sprite: {fileID: 21300000, guid: 3579032491b5a3648ba98f241f75ed21, type: 3}
+    subSprite: {fileID: 0}
+    index: 12
+  - title: "\uB3C4\uB85C\uAD50\uD1B5\uBC95"
+    sprite: {fileID: 21300000, guid: d11f4f749484d1842a876884c775103c, type: 3}
+    subSprite: {fileID: 0}
+    index: 13
+  - title: "\uC18C\uBC29\uAD00,\uACBD\uCC30 \uB3C4\uCC29"
+    sprite: {fileID: 21300000, guid: ee71c6cd02d4ac14c8ba8537a2f57e0a, type: 3}
+    subSprite: {fileID: 0}
+    index: 14
