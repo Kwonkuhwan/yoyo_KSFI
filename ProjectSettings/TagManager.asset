@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scroll Item
+  - Message Box Text
+  - Switch Button
+  - Switch Circle
+  - Camera Image
+  - Right Panel
+  - Loading Panel
+  - "\uC800\uC7A5\uC6A9\uAE30"
+  - "\uAE30\uB3D9\uC6A9\uAC00\uC2A4\uC6A9\uAE30"
+  - "\uC194\uB808\uB178\uC774\uB4DC\uBC38\uBE0C"
+  - "\uC120\uD0DD\uBC38\uBE0C"
+  - "\uC555\uB825\uC2A4\uC704\uCE58"
+  - "\uBC29\uCD9C\uD45C\uC2DC\uB4F1"
+  - "\uC218\uB3D9\uC870\uC791\uD568"
+  - "\uAC10\uC2DC\uC81C\uC5B4\uBC18"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Sub Viewer
+  - "\uAD6C\uC131\uC694\uC18C \uC774\uB984"
+  - "1\uBC88 \uBCF5\uB3C4"
+  - test
+  - particle
+  - sol
+  - selectValve
+  - "\uC800\uC7A5\uC6A9\uAE30"
+  - "\uAE30\uB3D9\uC6A9\uAC00\uC2A4\uC6A9\uAE30"
+  - "\uC555\uB825\uC2A4\uC704\uCE58"
+  - "\uBC29\uCD9C\uD45C\uC2DC\uB4F1"
+  - "\uC218\uB3D9\uC870\uC791\uD568"
+  - "\uAC10\uC2DC\uC81C\uC5B4\uBC18"
+  - "\uC194\uB808\uB178\uC774\uB4DC\uBC38\uBE0C"
+  - "\uC190\uAC00\uB77D"
+  - "\uAC10\uC2DC\uC81C\uC5B4\uBC18 1\uBC88\uAD6C\uC5ED"
+  - "\uAC10\uC2DC\uC81C\uC5B4\uBC18 2\uBC88\uAD6C\uC5ED"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\uAD6C\uC131\uC694\uC18C \uC774\uB984"
+    uniqueID: 587237585
+    locked: 0
